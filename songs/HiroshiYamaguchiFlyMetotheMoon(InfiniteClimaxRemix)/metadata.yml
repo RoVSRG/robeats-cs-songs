@@ -1,0 +1,138 @@
+Artist: Hiroshi Yamaguchi
+AssetId: rbxassetid://13867341250
+CoverImageAssetId: ""
+Description: ""
+Filename: Fly Me To The Moon (Infinite Climax Mix) (Cut Ver.)
+HitSFXGroup: 0
+Mapper: Ska
+MD5Hash: ef078b5f541fd11b1e0e74a764656891
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 35.84412117004395
+    Chordjack: 22.391096305847167
+    Handstream: 29.089798736572266
+    Jack: 18.13949718475342
+    Jumpstream: 34.810197830200195
+    Stamina: 34.77538833618164
+    Stream: 34.29899711608887
+    Technical: 32.75189895629883
+    Rate: 70
+  - Overall: 39.660301208496094
+    Chordjack: 25.964995193481446
+    Handstream: 33.85259857177734
+    Jack: 20.93939552307129
+    Jumpstream: 37.89089813232422
+    Stamina: 38.33942184448242
+    Stream: 38.37779846191406
+    Technical: 36.6911979675293
+    Rate: 80
+  - Overall: 43.31664047241211
+    Chordjack: 29.180696868896487
+    Handstream: 37.9448959350586
+    Jack: 23.753694534301758
+    Jumpstream: 40.81589469909668
+    Stamina: 41.708712387084965
+    Stream: 42.196501922607425
+    Technical: 40.53689689636231
+    Rate: 90
+  - Overall: 47.53241729736328
+    Chordjack: 32.64209747314453
+    Handstream: 42.551095962524414
+    Jack: 26.576094245910646
+    Jumpstream: 44.4068962097168
+    Stamina: 45.49700088500977
+    Stream: 46.50749588012695
+    Technical: 44.9243968963623
+    Rate: 100
+  - Overall: 51.90803833007813
+    Chordjack: 35.97839469909668
+    Handstream: 47.35889511108399
+    Jack: 29.39850082397461
+    Jumpstream: 47.49299697875977
+    Stamina: 49.47715187072754
+    Stream: 50.97959747314453
+    Technical: 49.3253963470459
+    Rate: 110
+  - Overall: 56.14379653930664
+    Chordjack: 39.25620002746582
+    Handstream: 52.100096511840825
+    Jack: 32.20740280151367
+    Jumpstream: 51.57179489135742
+    Stamina: 53.088993072509766
+    Stream: 55.12949409484863
+    Technical: 53.32769508361817
+    Rate: 120
+  - Overall: 60.53939895629883
+    Chordjack: 42.33779983520508
+    Handstream: 55.914292144775395
+    Jack: 35.00729598999023
+    Jumpstream: 55.592094039916994
+    Stamina: 57.045585250854494
+    Stream: 59.592604064941405
+    Technical: 57.67919769287109
+    Rate: 130
+  - Overall: 64.81512680053712
+    Chordjack: 45.41489524841309
+    Handstream: 60.85169906616211
+    Jack: 37.78559761047364
+    Jumpstream: 57.63508758544922
+    Stamina: 61.02536544799805
+    Stream: 63.74338989257813
+    Technical: 61.92809829711914
+    Rate: 140
+  - Overall: 69.63030395507813
+    Chordjack: 48.88079338073731
+    Handstream: 66.30299148559571
+    Jack: 40.54949684143067
+    Jumpstream: 61.27559280395508
+    Stamina: 65.14293823242188
+    Stream: 68.46569137573242
+    Technical: 66.35069274902344
+    Rate: 150
+  - Overall: 73.92599258422852
+    Chordjack: 52.40879173278809
+    Handstream: 70.82548599243164
+    Jack: 43.260294342041014
+    Jumpstream: 65.493896484375
+    Stamina: 68.89967880249024
+    Stream: 72.65609664916992
+    Technical: 70.37548599243165
+    Rate: 160
+  - Overall: 78.14178314208985
+    Chordjack: 56.032196044921875
+    Handstream: 75.09149780273438
+    Jack: 46.16729736328125
+    Jumpstream: 68.23529434204102
+    Stamina: 72.57755126953126
+    Stream: 76.71688385009766
+    Technical: 74.68198928833009
+    Rate: 170
+  - Overall: 82.79711608886718
+    Chordjack: 58.625099945068364
+    Handstream: 79.86779022216797
+    Jack: 49.129194259643555
+    Jumpstream: 71.83529434204102
+    Stamina: 77.18402938842773
+    Stream: 81.26639099121094
+    Technical: 78.98938522338868
+    Rate: 180
+  - Overall: 87.17274398803711
+    Chordjack: 61.59959335327149
+    Handstream: 85.00588989257812
+    Jack: 52.15229530334473
+    Jumpstream: 76.7600944519043
+    Stamina: 79.8907585144043
+    Stream: 85.1417839050293
+    Technical: 83.41648406982422
+    Rate: 190
+  - Overall: 91.36853942871095
+    Chordjack: 65.09249725341797
+    Handstream: 89.31418533325196
+    Jack: 54.917094039917
+    Jumpstream: 81.44189071655273
+    Stamina: 83.48128967285156
+    Stream: 89.17557907104492
+    Technical: 87.39268341064454
+    Rate: 200

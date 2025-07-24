@@ -1,0 +1,138 @@
+Artist: Hatsuki Yura
+AssetId: rbxassetid://5574223191
+CoverImageAssetId: ""
+Description: ""
+Filename: The Clockwork Rose -Tokei Shikake no Bara Shoujo-
+HitSFXGroup: 0
+Mapper: "[Crz]Rachel"
+MD5Hash: 7a2cc7fdb6d6fce3615c9c496617e466
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 40.97897987365723
+    Chordjack: 27.26459369659424
+    Handstream: 32.468400192260745
+    Jack: 22.387496566772462
+    Jumpstream: 36.552595138549805
+    Stamina: 40.36599769592285
+    Stream: 40.40639991760254
+    Technical: 37.078198242187504
+    Rate: 70
+  - Overall: 46.43352012634278
+    Chordjack: 31.23720359802246
+    Handstream: 37.733398818969725
+    Jack: 25.78769302368164
+    Jumpstream: 39.59909362792969
+    Stamina: 45.66888198852539
+    Stream: 45.71459541320801
+    Technical: 42.02999725341797
+    Rate: 80
+  - Overall: 52.1677791595459
+    Chordjack: 34.92719535827637
+    Handstream: 42.966897583007814
+    Jack: 29.178897857666016
+    Jumpstream: 43.13339881896973
+    Stamina: 51.25858840942383
+    Stream: 51.30989456176758
+    Technical: 47.24909362792969
+    Rate: 90
+  - Overall: 57.182759857177736
+    Chordjack: 38.85479736328125
+    Handstream: 48.365095138549805
+    Jack: 32.56919975280762
+    Jumpstream: 46.06739730834961
+    Stamina: 55.7915885925293
+    Stream: 56.447994232177734
+    Technical: 52.20989456176758
+    Rate: 100
+  - Overall: 62.17776947021485
+    Chordjack: 42.63389854431153
+    Handstream: 53.5094913482666
+    Jack: 35.9558967590332
+    Jumpstream: 49.46669425964355
+    Stamina: 60.46682052612305
+    Stream: 61.443896484375
+    Technical: 57.04919357299805
+    Rate: 110
+  - Overall: 67.49244003295898
+    Chordjack: 46.23839263916016
+    Handstream: 58.74119110107422
+    Jack: 39.359701538085936
+    Jumpstream: 51.77429351806641
+    Stamina: 65.25151748657227
+    Stream: 66.89968643188477
+    Technical: 62.01269989013672
+    Rate: 120
+  - Overall: 73.3465805053711
+    Chordjack: 49.42709541320801
+    Handstream: 63.70109939575195
+    Jack: 42.75540046691895
+    Jumpstream: 54.801892089843754
+    Stamina: 70.87802124023438
+    Stream: 72.70559005737304
+    Technical: 67.3838882446289
+    Rate: 130
+  - Overall: 78.50142059326173
+    Chordjack: 53.03609390258789
+    Handstream: 69.3089813232422
+    Jack: 46.137593078613286
+    Jumpstream: 59.162393188476564
+    Stamina: 75.39049072265625
+    Stream: 77.97328720092774
+    Technical: 72.31319274902344
+    Rate: 140
+  - Overall: 83.61629791259766
+    Chordjack: 56.77469329833985
+    Handstream: 73.88818588256837
+    Jack: 49.49729804992676
+    Jumpstream: 61.56359939575196
+    Stamina: 79.8761604309082
+    Stream: 83.12488632202148
+    Technical: 77.1110939025879
+    Rate: 150
+  - Overall: 88.91099395751954
+    Chordjack: 60.830996704101565
+    Handstream: 79.48708648681641
+    Jack: 52.83449478149414
+    Jumpstream: 64.52819137573242
+    Stamina: 84.47511291503906
+    Stream: 88.41508483886719
+    Technical: 82.31218643188477
+    Rate: 160
+  - Overall: 93.86603393554688
+    Chordjack: 64.44899368286133
+    Handstream: 84.23278884887695
+    Jack: 56.15369110107422
+    Jumpstream: 67.72589263916016
+    Stamina: 88.67653198242188
+    Stream: 93.37407989501953
+    Technical: 87.04708786010742
+    Rate: 170
+  - Overall: 99.38051834106446
+    Chordjack: 67.89689483642579
+    Handstream: 89.31327896118164
+    Jack: 59.48278884887696
+    Jumpstream: 70.14508895874023
+    Stamina: 93.45236434936524
+    Stream: 98.82088165283203
+    Technical: 92.37869110107422
+    Rate: 180
+  - Overall: 104.49538879394531
+    Chordjack: 71.72998352050782
+    Handstream: 93.65488357543946
+    Jack: 62.84699478149414
+    Jumpstream: 73.8215950012207
+    Stamina: 98.19619903564454
+    Stream: 103.83477401733398
+    Technical: 96.94348297119141
+    Rate: 190
+  - Overall: 109.8899917602539
+    Chordjack: 75.40559005737305
+    Handstream: 98.74437561035157
+    Jack: 66.12208786010743
+    Jumpstream: 78.07498626708984
+    Stamina: 102.46499176025391
+    Stream: 109.12858428955079
+    Technical: 102.52977676391602
+    Rate: 200

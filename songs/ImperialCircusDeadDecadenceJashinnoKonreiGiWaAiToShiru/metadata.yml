@@ -1,0 +1,138 @@
+Artist: Imperial Circus Dead Decadence
+AssetId: rbxassetid://13872498905
+CoverImageAssetId: ""
+Description: ""
+Filename: Jashin no Konrei, Gi Wa Ai To Shiru.
+HitSFXGroup: 0
+Mapper: 11Bit
+MD5Hash: a79ae23a1232ad88a3d6a1ce01191018
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 37.72224426269531
+    Chordjack: 26.348394012451173
+    Handstream: 36.91169700622559
+    Jack: 21.30029640197754
+    Jumpstream: 35.58329887390137
+    Stamina: 36.874786376953125
+    Stream: 31.42079887390137
+    Technical: 33.40259857177735
+    Rate: 70
+  - Overall: 42.57738075256348
+    Chordjack: 30.897901153564455
+    Handstream: 41.840095138549806
+    Jack: 24.704997253417968
+    Jumpstream: 39.25079612731934
+    Stamina: 41.79825439453125
+    Stream: 34.71659774780274
+    Technical: 37.60739936828613
+    Rate: 80
+  - Overall: 47.67227668762207
+    Chordjack: 34.9910945892334
+    Handstream: 46.799996566772464
+    Jack: 28.10519371032715
+    Jumpstream: 43.92989387512207
+    Stamina: 46.75320167541504
+    Stream: 38.63429489135742
+    Technical: 41.97689895629883
+    Rate: 90
+  - Overall: 53.12681694030762
+    Chordjack: 39.218396759033205
+    Handstream: 52.27379379272461
+    Jack: 31.521598434448244
+    Jumpstream: 47.69549217224121
+    Stamina: 52.221522903442384
+    Stream: 42.06870002746582
+    Technical: 46.18079681396485
+    Rate: 100
+  - Overall: 57.50243797302246
+    Chordjack: 42.89850082397461
+    Handstream: 56.5442928314209
+    Jack: 34.92989387512207
+    Jumpstream: 51.87689552307129
+    Stamina: 56.48775444030762
+    Stream: 45.65069274902344
+    Technical: 50.44679489135742
+    Rate: 110
+  - Overall: 61.95798797607422
+    Chordjack: 46.82159843444824
+    Handstream: 60.918296813964844
+    Jack: 38.34180107116699
+    Jumpstream: 55.352691650390625
+    Stamina: 60.8573844909668
+    Stream: 48.88709678649902
+    Technical: 54.82529296875
+    Rate: 120
+  - Overall: 67.19273986816407
+    Chordjack: 50.75279502868653
+    Handstream: 66.20489730834962
+    Jack: 41.73660049438477
+    Jumpstream: 59.32889099121094
+    Stamina: 65.82551879882813
+    Stream: 52.643696594238286
+    Technical: 59.07419357299805
+    Rate: 130
+  - Overall: 71.82810516357422
+    Chordjack: 54.643489837646484
+    Handstream: 70.97218780517578
+    Jack: 45.135897445678715
+    Jumpstream: 63.37169494628906
+    Stamina: 70.0754493713379
+    Stream: 56.24729461669922
+    Technical: 63.307795715332034
+    Rate: 140
+  - Overall: 76.083837890625
+    Chordjack: 58.990498352050786
+    Handstream: 75.4568962097168
+    Jack: 48.52169494628907
+    Jumpstream: 66.4757926940918
+    Stamina: 73.72217559814453
+    Stream: 59.315398406982425
+    Technical: 67.00229187011719
+    Rate: 150
+  - Overall: 80.31959609985351
+    Chordjack: 61.933502197265625
+    Handstream: 79.8209815979004
+    Jack: 51.898497390747075
+    Jumpstream: 70.78678665161134
+    Stamina: 77.3314796447754
+    Stream: 62.879397583007815
+    Technical: 71.48788604736329
+    Rate: 160
+  - Overall: 85.65426177978516
+    Chordjack: 66.39119110107423
+    Handstream: 85.07248764038086
+    Jack: 55.29419631958008
+    Jumpstream: 74.5208953857422
+    Stamina: 82.52184677124023
+    Stream: 65.97449340820313
+    Technical: 75.8213882446289
+    Rate: 170
+  - Overall: 90.40950164794923
+    Chordjack: 70.5779914855957
+    Handstream: 89.89288330078125
+    Jack: 58.68899917602539
+    Jumpstream: 78.23697967529297
+    Stamina: 86.60261535644531
+    Stream: 69.81659088134766
+    Technical: 80.32497940063477
+    Rate: 180
+  - Overall: 95.3245719909668
+    Chordjack: 74.79538192749024
+    Handstream: 94.78977813720704
+    Jack: 62.07119522094727
+    Jumpstream: 82.11509170532227
+    Stamina: 90.94774932861328
+    Stream: 73.54079818725586
+    Technical: 84.38128967285157
+    Rate: 190
+  - Overall: 100.83905639648438
+    Chordjack: 79.63108978271485
+    Handstream: 100.17989044189453
+    Jack: 65.46240005493165
+    Jumpstream: 85.24528884887695
+    Stamina: 96.2459197998047
+    Stream: 76.51529159545899
+    Technical: 88.50868148803711
+    Rate: 200

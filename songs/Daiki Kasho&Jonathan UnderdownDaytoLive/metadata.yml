@@ -1,0 +1,138 @@
+Artist: Daiki Kasho & Jonathan Underdown
+AssetId: rbxassetid://13873082376
+CoverImageAssetId: ""
+Description: ""
+Filename: Day to Live
+HitSFXGroup: 0
+Mapper: MintApril & Wiosna
+MD5Hash: 911c90a60cc753a42e37ebba344da036
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 36.92304382324219
+    Chordjack: 25.258495330810547
+    Handstream: 33.32340087890625
+    Jack: 19.58939723968506
+    Jumpstream: 35.006396484375
+    Stamina: 34.83094825744629
+    Stream: 36.454497528076175
+    Technical: 34.383598709106444
+    Rate: 70
+  - Overall: 41.67828025817871
+    Chordjack: 28.48769474029541
+    Handstream: 38.4443962097168
+    Jack: 22.733097267150878
+    Jumpstream: 38.83949203491211
+    Stamina: 39.086310195922856
+    Stream: 41.21730079650879
+    Technical: 38.87369728088379
+    Rate: 80
+  - Overall: 46.413538742065434
+    Chordjack: 31.806000137329104
+    Handstream: 43.47629585266113
+    Jack: 25.867797088623046
+    Jumpstream: 42.18570098876953
+    Stamina: 43.169760131835936
+    Stream: 46.03319892883301
+    Technical: 43.48889579772949
+    Rate: 90
+  - Overall: 51.36857872009278
+    Chordjack: 35.45549354553223
+    Handstream: 48.32729530334473
+    Jack: 29.00160255432129
+    Jumpstream: 45.82979736328125
+    Stamina: 47.49636154174805
+    Stream: 50.921095275878905
+    Technical: 48.524396896362305
+    Rate: 100
+  - Overall: 56.283655929565434
+    Chordjack: 39.02490005493164
+    Handstream: 53.81909294128418
+    Jack: 32.12279777526856
+    Jumpstream: 48.87629585266114
+    Stamina: 51.3528133392334
+    Stream: 55.45529708862305
+    Technical: 53.41769371032715
+    Rate: 110
+  - Overall: 60.978955078125004
+    Chordjack: 42.44580230712891
+    Handstream: 58.653890991210936
+    Jack: 35.23409843444824
+    Jumpstream: 53.67059555053711
+    Stamina: 55.41020164489746
+    Stream: 59.94539566040039
+    Technical: 57.95189895629883
+    Rate: 120
+  - Overall: 66.35358352661133
+    Chordjack: 46.14029502868652
+    Handstream: 64.22939071655274
+    Jack: 38.331903076171876
+    Jumpstream: 56.67119178771973
+    Stamina: 59.896705627441406
+    Stream: 65.19508895874024
+    Technical: 62.902791595458986
+    Rate: 130
+  - Overall: 71.08883514404297
+    Chordjack: 49.73579750061035
+    Handstream: 68.26679077148438
+    Jack: 41.41259994506836
+    Jumpstream: 59.73479461669922
+    Stamina: 64.14106063842773
+    Stream: 70.0559898376465
+    Technical: 67.82669219970704
+    Rate: 140
+  - Overall: 75.6642562866211
+    Chordjack: 53.28269233703613
+    Handstream: 72.51118698120118
+    Jack: 44.47980079650879
+    Jumpstream: 63.91169357299805
+    Stamina: 67.63815307617188
+    Stream: 74.58029022216797
+    Technical: 72.48598709106446
+    Rate: 150
+  - Overall: 81.07883377075196
+    Chordjack: 56.89619522094727
+    Handstream: 79.2863868713379
+    Jack: 47.533498764038086
+    Jumpstream: 66.91769027709961
+    Stamina: 71.8945930480957
+    Stream: 79.23598709106446
+    Technical: 76.9841812133789
+    Rate: 160
+  - Overall: 85.97393646240235
+    Chordjack: 60.79589538574219
+    Handstream: 83.76208648681641
+    Jack: 50.57729873657227
+    Jumpstream: 69.44398956298828
+    Stamina: 76.36830139160156
+    Stream: 84.27148818969727
+    Technical: 81.8900848388672
+    Rate: 170
+  - Overall: 90.48941345214844
+    Chordjack: 63.53729324340821
+    Handstream: 89.02527923583985
+    Jack: 53.58600082397461
+    Jumpstream: 71.68859252929688
+    Stamina: 79.33971176147462
+    Stream: 87.90208511352539
+    Technical: 85.91488494873047
+    Rate: 180
+  - Overall: 95.12477188110351
+    Chordjack: 67.6115936279297
+    Handstream: 93.11758346557617
+    Jack: 56.441704559326176
+    Jumpstream: 76.8635856628418
+    Stamina: 83.38402633666992
+    Stream: 92.80257797241211
+    Technical: 91.11958236694336
+    Rate: 190
+  - Overall: 100.17971191406251
+    Chordjack: 71.47078857421876
+    Handstream: 98.07657852172852
+    Jack: 59.338799285888676
+    Jumpstream: 79.25128555297852
+    Stamina: 87.98733901977539
+    Stream: 97.8785774230957
+    Technical: 95.7797836303711
+    Rate: 200

@@ -1,0 +1,138 @@
+Artist: katagiri
+AssetId: rbxassetid://9042611631
+CoverImageAssetId: ""
+Description: ""
+Filename: Angel's Salad ('Le mythe etendu' ver.)
+HitSFXGroup: 0
+Mapper: Penguinosity
+MD5Hash: 42df1b87c5bd526f7a00fbb91ef491a8
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 38.161800384521484
+    Chordjack: 26.441094589233398
+    Handstream: 28.60379276275635
+    Jack: 18.344699478149415
+    Jumpstream: 37.433695220947264
+    Stamina: 37.39626274108887
+    Stream: 33.96240005493164
+    Technical: 35.62109527587891
+    Rate: 70
+  - Overall: 42.53741798400879
+    Chordjack: 31.093203735351562
+    Handstream: 33.18929901123047
+    Jack: 21.247196388244628
+    Jumpstream: 41.64749450683594
+    Stamina: 41.60584602355957
+    Stream: 37.49579887390137
+    Technical: 39.8564998626709
+    Rate: 80
+  - Overall: 46.37357940673828
+    Chordjack: 35.672397994995116
+    Handstream: 37.885494232177734
+    Jack: 24.127195358276367
+    Jumpstream: 45.39509582519531
+    Stamina: 45.34970169067383
+    Stream: 40.38839950561523
+    Technical: 43.344895935058595
+    Rate: 90
+  - Overall: 51.06887855529785
+    Chordjack: 40.08149642944336
+    Handstream: 41.87969741821289
+    Jack: 26.98919563293457
+    Jumpstream: 49.978794479370116
+    Stamina: 49.92881698608399
+    Stream: 43.91729736328125
+    Technical: 47.72699890136719
+    Rate: 100
+  - Overall: 55.004936599731444
+    Chordjack: 45.24749450683594
+    Handstream: 46.53989181518555
+    Jack: 29.820602416992188
+    Jumpstream: 53.77049560546875
+    Stamina: 53.716727828979494
+    Stream: 46.88099670410156
+    Technical: 51.7067928314209
+    Rate: 110
+  - Overall: 59.72021713256836
+    Chordjack: 50.994899368286134
+    Handstream: 51.177595138549805
+    Jack: 32.62949752807617
+    Jumpstream: 58.45319137573242
+    Stamina: 58.290243530273436
+    Stream: 50.87429695129395
+    Technical: 56.068196868896486
+    Rate: 120
+  - Overall: 63.656288909912114
+    Chordjack: 56.048394012451176
+    Handstream: 55.4534912109375
+    Jack: 35.40149917602539
+    Jumpstream: 62.50949478149414
+    Stamina: 61.93423004150391
+    Stream: 54.09539566040039
+    Technical: 59.83740005493164
+    Rate: 130
+  - Overall: 68.03190994262695
+    Chordjack: 60.91470565795898
+    Handstream: 59.86709060668945
+    Jack: 38.20500068664551
+    Jumpstream: 66.994189453125
+    Stamina: 65.5781135559082
+    Stream: 57.99870071411133
+    Technical: 64.64159774780273
+    Rate: 140
+  - Overall: 72.40751724243164
+    Chordjack: 65.25269165039063
+    Handstream: 63.087300109863286
+    Jack: 40.9814998626709
+    Jumpstream: 71.43568725585938
+    Stamina: 69.82101287841797
+    Stream: 60.417903900146484
+    Technical: 68.46928939819337
+    Rate: 150
+  - Overall: 76.34358215332031
+    Chordjack: 70.57438659667969
+    Handstream: 68.34239044189454
+    Jack: 43.50149917602539
+    Jumpstream: 75.22378692626954
+    Stamina: 73.28723373413087
+    Stream: 63.57509994506836
+    Technical: 72.4850944519043
+    Rate: 160
+  - Overall: 80.5193962097168
+    Chordjack: 75.7223876953125
+    Handstream: 73.12318725585938
+    Jack: 46.341897583007814
+    Jumpstream: 79.2755859375
+    Stamina: 76.92611846923829
+    Stream: 65.98078994750976
+    Technical: 76.33709335327148
+    Rate: 170
+  - Overall: 84.37554244995117
+    Chordjack: 81.59849395751954
+    Handstream: 77.21098709106445
+    Jack: 49.26240005493164
+    Jumpstream: 82.63888549804688
+    Stamina: 80.03627243041993
+    Stream: 68.32349395751953
+    Technical: 79.2125862121582
+    Rate: 180
+  - Overall: 89.33058242797851
+    Chordjack: 86.28118286132813
+    Handstream: 80.3150848388672
+    Jack: 52.07940101623535
+    Jumpstream: 87.75087890625001
+    Stamina: 84.74913940429688
+    Stream: 71.78039703369141
+    Technical: 84.17158813476563
+    Rate: 190
+  - Overall: 93.7861083984375
+    Chordjack: 91.99708786010743
+    Handstream: 85.36409225463868
+    Jack: 54.78029708862305
+    Jumpstream: 91.47598571777344
+    Stamina: 87.60989685058594
+    Stream: 73.9664909362793
+    Technical: 87.61048736572266
+    Rate: 200

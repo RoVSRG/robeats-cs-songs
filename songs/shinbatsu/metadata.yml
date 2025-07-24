@@ -1,0 +1,138 @@
+Artist: Imperial Circus Dead Decadence
+AssetId: rbxassetid://12992797325
+CoverImageAssetId: ""
+Description: ""
+Filename: Shinbatsu o Tadori Kyo Kotsu ni Itaru
+HitSFXGroup: 0
+Mapper: Evening
+MD5Hash: 89868d32183ecff8280c4a3975b63884
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 39.78018264770508
+    Chordjack: 27.566094589233398
+    Handstream: 38.881796264648436
+    Jack: 21.41729736328125
+    Jumpstream: 37.401295852661136
+    Stamina: 38.84291496276855
+    Stream: 35.57789497375489
+    Technical: 36.09809761047364
+    Rate: 70
+  - Overall: 45.454500961303715
+    Chordjack: 32.03100357055664
+    Handstream: 44.684098434448245
+    Jack: 24.77699718475342
+    Jumpstream: 41.57009582519532
+    Stamina: 44.63941841125489
+    Stream: 39.590095138549806
+    Technical: 40.58909568786621
+    Rate: 80
+  - Overall: 50.609341049194335
+    Chordjack: 36.03419494628906
+    Handstream: 49.814095687866214
+    Jack: 28.141194534301757
+    Jumpstream: 45.68489456176758
+    Stamina: 49.76428298950196
+    Stream: 44.27279434204102
+    Technical: 45.37079544067383
+    Rate: 90
+  - Overall: 56.38355941772461
+    Chordjack: 40.1759994506836
+    Handstream: 55.45889511108398
+    Jack: 31.486500549316407
+    Jumpstream: 50.45759582519531
+    Stamina: 55.40343818664551
+    Stream: 48.534294891357426
+    Technical: 50.17859802246094
+    Rate: 100
+  - Overall: 61.678269195556645
+    Chordjack: 44.47889785766602
+    Handstream: 60.655496978759764
+    Jack: 34.810197830200195
+    Jumpstream: 54.26819686889649
+    Stamina: 60.59484558105469
+    Stream: 52.8308967590332
+    Technical: 54.906293106079104
+    Rate: 110
+  - Overall: 66.6732650756836
+    Chordjack: 48.437096786499026
+    Handstream: 65.53889236450196
+    Jack: 38.112296676635744
+    Jumpstream: 58.14539566040039
+    Stamina: 65.47335891723633
+    Stream: 56.73059349060059
+    Technical: 59.40898818969727
+    Rate: 120
+  - Overall: 71.90802383422852
+    Chordjack: 52.47989387512207
+    Handstream: 70.67698516845704
+    Jack: 41.4
+    Jumpstream: 61.94699478149414
+    Stamina: 70.60630874633789
+    Stream: 60.721195220947266
+    Technical: 63.62190170288086
+    Rate: 130
+  - Overall: 77.48243865966798
+    Chordjack: 56.111397171020506
+    Handstream: 76.1561897277832
+    Jack: 44.67869453430176
+    Jumpstream: 66.36959609985352
+    Stamina: 76.08003387451173
+    Stream: 65.10869522094727
+    Technical: 68.57278747558594
+    Rate: 140
+  - Overall: 82.85705337524415
+    Chordjack: 60.50339813232422
+    Handstream: 81.43737945556641
+    Jack: 47.94029502868653
+    Jumpstream: 70.7390853881836
+    Stamina: 81.35595016479492
+    Stream: 69.39718780517579
+    Technical: 73.26449203491211
+    Rate: 150
+  - Overall: 87.59231872558594
+    Chordjack: 64.5551971435547
+    Handstream: 86.32078170776367
+    Jack: 51.1883960723877
+    Jumpstream: 73.9853874206543
+    Stamina: 85.73777160644532
+    Stream: 72.70559005737304
+    Technical: 77.57548599243164
+    Rate: 160
+  - Overall: 91.88801422119141
+    Chordjack: 68.74198379516602
+    Handstream: 90.82797775268556
+    Jack: 54.42659568786621
+    Jumpstream: 77.71948928833008
+    Stamina: 89.4556137084961
+    Stream: 76.4360939025879
+    Technical: 81.49768753051758
+    Rate: 170
+  - Overall: 97.54235458374023
+    Chordjack: 72.9323959350586
+    Handstream: 96.4547836303711
+    Jack: 57.64769439697266
+    Jumpstream: 81.30687561035157
+    Stamina: 94.83188323974609
+    Stream: 80.14229049682618
+    Technical: 86.27848434448242
+    Rate: 180
+  - Overall: 102.73715057373047
+    Chordjack: 76.85818862915039
+    Handstream: 101.68288192749024
+    Jack: 60.841790771484376
+    Jumpstream: 85.5863868713379
+    Stamina: 99.56988143920898
+    Stream: 84.37408676147462
+    Technical: 91.17088851928712
+    Rate: 190
+  - Overall: 107.45243453979492
+    Chordjack: 80.37358703613282
+    Handstream: 106.41868286132812
+    Jack: 64.07189483642578
+    Jumpstream: 89.72008895874023
+    Stamina: 103.71956176757813
+    Stream: 88.44298324584962
+    Technical: 95.48278198242188
+    Rate: 200

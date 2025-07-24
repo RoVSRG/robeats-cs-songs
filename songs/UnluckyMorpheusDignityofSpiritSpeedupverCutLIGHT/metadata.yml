@@ -1,0 +1,138 @@
+Artist: Unlucky Morpheus
+AssetId: rbxassetid://9512601479
+CoverImageAssetId: rbxassetid://8357242917
+Description: ""
+Filename: Sono Tamashii ni Yasuragi wo ~ Dignity of Spirit (Speed Up Ver.)
+HitSFXGroup: 0
+Mapper: A_scend
+MD5Hash: 009d3c4b5581fa5bd8913ae392794302
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 34.545423889160155
+    Chordjack: 21.780895042419434
+    Handstream: 31.299300384521484
+    Jack: 17.698499107360842
+    Jumpstream: 34.1658016204834
+    Stamina: 34.13163757324219
+    Stream: 29.38139991760254
+    Technical: 30.034801483154297
+    Rate: 70
+  - Overall: 38.56140403747559
+    Chordjack: 25.046994781494142
+    Handstream: 36.484194946289065
+    Jack: 20.579395866394044
+    Jumpstream: 37.66860008239746
+    Stamina: 37.63093070983887
+    Stream: 32.504401016235356
+    Technical: 33.868799972534184
+    Rate: 80
+  - Overall: 42.617340087890625
+    Chordjack: 28.20509376525879
+    Handstream: 41.14529914855957
+    Jack: 23.44679660797119
+    Jumpstream: 41.27399711608887
+    Stamina: 41.23272285461426
+    Stream: 35.46629791259766
+    Technical: 37.5416976928711
+    Rate: 90
+  - Overall: 47.27267990112305
+    Chordjack: 31.390201950073244
+    Handstream: 45.78929557800293
+    Jack: 26.308795166015624
+    Jumpstream: 45.69389305114746
+    Stamina: 45.64820022583008
+    Stream: 38.954693984985354
+    Technical: 41.706896209716795
+    Rate: 100
+  - Overall: 52.26767921447754
+    Chordjack: 34.70129585266113
+    Handstream: 50.8850944519043
+    Jack: 29.16270332336426
+    Jumpstream: 49.796095275878905
+    Stamina: 50.834210586547854
+    Stream: 41.96069412231446
+    Technical: 45.728094863891606
+    Rate: 110
+  - Overall: 56.22371864318848
+    Chordjack: 37.81889991760254
+    Handstream: 54.81179351806641
+    Jack: 32.00669631958008
+    Jumpstream: 53.414095687866215
+    Stamina: 54.75698547363282
+    Stream: 44.99819755554199
+    Technical: 49.324493408203125
+    Rate: 120
+  - Overall: 60.978955078125004
+    Chordjack: 40.918496704101564
+    Handstream: 59.6654914855957
+    Jack: 34.846198654174806
+    Jumpstream: 57.18959197998047
+    Stamina: 59.605828857421876
+    Stream: 48.56759719848633
+    Technical: 53.15669288635254
+    Rate: 130
+  - Overall: 65.65428314208985
+    Chordjack: 43.97309761047364
+    Handstream: 64.2590950012207
+    Jack: 37.67309761047363
+    Jumpstream: 61.524000549316405
+    Stamina: 64.19483871459961
+    Stream: 51.27749176025391
+    Technical: 56.98169631958008
+    Rate: 140
+  - Overall: 70.00992279052734
+    Chordjack: 47.282395935058595
+    Handstream: 68.68258209228516
+    Jack: 40.490098571777345
+    Jumpstream: 64.63619384765626
+    Stamina: 68.61390380859375
+    Stream: 54.296095275878905
+    Technical: 60.50970153808594
+    Rate: 150
+  - Overall: 74.16575546264649
+    Chordjack: 50.45309143066407
+    Handstream: 72.8324821472168
+    Jack: 43.30799903869629
+    Jumpstream: 67.82038879394531
+    Stamina: 72.75964965820313
+    Stream: 57.24269371032715
+    Technical: 64.07369384765626
+    Rate: 160
+  - Overall: 78.76115798950195
+    Chordjack: 53.74079132080078
+    Handstream: 77.38018341064453
+    Jack: 46.12499656677246
+    Jumpstream: 71.47348709106446
+    Stamina: 77.30280532836915
+    Stream: 60.023693847656254
+    Technical: 67.9409912109375
+    Rate: 170
+  - Overall: 83.31659774780273
+    Chordjack: 56.763892364501956
+    Handstream: 81.89187698364258
+    Jack: 48.92940101623535
+    Jumpstream: 74.65768890380859
+    Stamina: 81.80998764038087
+    Stream: 63.29699478149414
+    Technical: 71.66248626708985
+    Rate: 180
+  - Overall: 87.59231872558594
+    Chordjack: 60.193789672851565
+    Handstream: 86.08767929077149
+    Jack: 51.720295715332036
+    Jumpstream: 79.06768341064453
+    Stamina: 86.00160140991211
+    Stream: 66.34800109863282
+    Technical: 75.36958923339844
+    Rate: 190
+  - Overall: 91.76813278198243
+    Chordjack: 63.76769714355469
+    Handstream: 90.17908401489258
+    Jack: 54.497694396972655
+    Jumpstream: 81.72808456420898
+    Stamina: 90.08890686035157
+    Stream: 69.33869247436523
+    Technical: 79.00918121337891
+    Rate: 200

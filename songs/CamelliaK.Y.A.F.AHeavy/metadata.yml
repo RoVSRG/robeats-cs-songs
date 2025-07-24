@@ -1,0 +1,138 @@
+Artist: Camellia
+AssetId: rbxassetid://13158956276
+CoverImageAssetId: ""
+Description: ""
+Filename: K.Y.A.F.A. (HEAVY)
+HitSFXGroup: 0
+Mapper: Evening
+MD5Hash: 5cc70139fddd2aa6084fba99ccfeb302
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 36.2237434387207
+    Chordjack: 26.549994850158694
+    Handstream: 32.98500137329102
+    Jack: 22.574696731567382
+    Jumpstream: 35.758798599243164
+    Stamina: 35.72304153442383
+    Stream: 30.560404586791993
+    Technical: 32.481899642944335
+    Rate: 70
+  - Overall: 40.53942375183106
+    Chordjack: 30.938402938842774
+    Handstream: 37.58759994506836
+    Jack: 25.970393943786622
+    Jumpstream: 39.797994232177736
+    Stamina: 39.75819969177246
+    Stream: 33.93809967041016
+    Technical: 36.2942928314209
+    Rate: 80
+  - Overall: 45.33462295532227
+    Chordjack: 35.08919563293457
+    Handstream: 42.61589469909668
+    Jack: 29.33459815979004
+    Jumpstream: 44.31149368286133
+    Stamina: 44.26718444824219
+    Stream: 37.56509513854981
+    Technical: 40.51169700622559
+    Rate: 90
+  - Overall: 49.89005928039551
+    Chordjack: 39.182395935058594
+    Handstream: 47.40659980773926
+    Jack: 32.66729736328125
+    Jumpstream: 48.618896484375
+    Stamina: 48.570278549194335
+    Stream: 40.86539840698242
+    Technical: 44.59499931335449
+    Rate: 100
+  - Overall: 54.345602416992186
+    Chordjack: 43.57529983520508
+    Handstream: 51.68699340820313
+    Jack: 35.97299423217773
+    Jumpstream: 52.96679420471192
+    Stamina: 52.9138298034668
+    Stream: 44.4068962097168
+    Technical: 48.65579681396485
+    Rate: 110
+  - Overall: 58.78115386962891
+    Chordjack: 47.70719604492188
+    Handstream: 56.378687667846684
+    Jack: 39.23459815979004
+    Jumpstream: 57.11669425964356
+    Stamina: 57.059582519531254
+    Stream: 48.09689826965332
+    Technical: 53.0882926940918
+    Rate: 120
+  - Overall: 63.43651428222656
+    Chordjack: 51.68339881896973
+    Handstream: 61.45019989013672
+    Jack: 42.0443962097168
+    Jumpstream: 61.41509857177734
+    Stamina: 61.38875198364258
+    Stream: 51.477295303344725
+    Technical: 57.310197830200195
+    Rate: 130
+  - Overall: 67.11282806396484
+    Chordjack: 56.26259651184082
+    Handstream: 65.00969467163087
+    Jack: 45.01439552307129
+    Jumpstream: 64.92599258422852
+    Stamina: 64.94468994140625
+    Stream: 54.55439071655274
+    Technical: 61.1693962097168
+    Rate: 140
+  - Overall: 71.74817962646485
+    Chordjack: 60.03269577026367
+    Handstream: 69.72298736572266
+    Jack: 48.26609802246094
+    Jumpstream: 69.1478874206543
+    Stamina: 69.65326538085938
+    Stream: 57.70708923339844
+    Technical: 65.31029434204102
+    Rate: 150
+  - Overall: 76.42349395751954
+    Chordjack: 64.12049560546875
+    Handstream: 74.3696891784668
+    Jack: 51.47819480895996
+    Jumpstream: 73.49939346313477
+    Stamina: 74.2953254699707
+    Stream: 61.59329681396485
+    Technical: 69.72839126586915
+    Rate: 160
+  - Overall: 80.33957748413086
+    Chordjack: 68.81218643188477
+    Handstream: 78.40798873901367
+    Jack: 54.67679214477539
+    Jumpstream: 77.23348846435547
+    Stamina: 78.01493911743164
+    Stream: 64.5497932434082
+    Technical: 73.29689483642578
+    Rate: 170
+  - Overall: 85.05485458374024
+    Chordjack: 72.3365867614746
+    Handstream: 83.61268615722656
+    Jack: 57.84928665161133
+    Jumpstream: 81.30778884887695
+    Stamina: 82.28949279785157
+    Stream: 67.89059143066406
+    Technical: 77.23709335327149
+    Rate: 180
+  - Overall: 88.87103805541993
+    Chordjack: 76.54498901367188
+    Handstream: 87.5483871459961
+    Jack: 61.002898406982425
+    Jumpstream: 84.51808319091798
+    Stamina: 85.89323501586914
+    Stream: 70.44478225708008
+    Technical: 81.0035774230957
+    Rate: 190
+  - Overall: 93.76613388061524
+    Chordjack: 80.981982421875
+    Handstream: 92.3210952758789
+    Jack: 64.13039703369141
+    Jumpstream: 89.67148132324219
+    Stamina: 90.54033508300782
+    Stream: 73.97279434204101
+    Technical: 85.5287841796875
+    Rate: 200

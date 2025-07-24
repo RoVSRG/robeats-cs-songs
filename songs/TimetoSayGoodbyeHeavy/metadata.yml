@@ -1,0 +1,138 @@
+Artist: Jeff Williams
+AssetId: rbxassetid://12781324053
+CoverImageAssetId: ""
+Description: ""
+Filename: Time To Say Goodbye (feat. Casey Lee Williams)
+HitSFXGroup: 0
+Mapper: Milla-
+MD5Hash: c5cd1c41e8be63564b606992936e1be6
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 33.68628616333008
+    Chordjack: 33.360297775268556
+    Handstream: 20.25809555053711
+    Jack: 21.644995880126952
+    Jumpstream: 23.419795989990234
+    Stamina: 33.32694053649902
+    Stream: 20.10509548187256
+    Technical: 24.52049560546875
+    Rate: 70
+  - Overall: 39.06090431213379
+    Chordjack: 38.57939758300781
+    Handstream: 23.02199478149414
+    Jack: 24.93629550933838
+    Jumpstream: 25.96949615478516
+    Stamina: 38.54082183837891
+    Stream: 22.26419563293457
+    Technical: 26.511295509338378
+    Rate: 80
+  - Overall: 43.79616622924805
+    Chordjack: 43.315198516845705
+    Handstream: 25.61579303741455
+    Jack: 28.201494026184083
+    Jumpstream: 28.911597061157227
+    Stamina: 42.98662834167481
+    Stream: 24.410694122314453
+    Technical: 28.844995880126955
+    Rate: 90
+  - Overall: 48.97098083496094
+    Chordjack: 48.63689346313477
+    Handstream: 28.16459369659424
+    Jack: 31.444203186035157
+    Jumpstream: 31.64850082397461
+    Stamina: 47.67331008911133
+    Stream: 26.731794548034667
+    Technical: 31.366801071166993
+    Rate: 100
+  - Overall: 54.00594291687012
+    Chordjack: 53.79299354553223
+    Handstream: 30.60180244445801
+    Jack: 34.65540046691895
+    Jumpstream: 34.009198379516604
+    Stamina: 52.16644020080567
+    Stream: 28.8783016204834
+    Technical: 33.90299835205078
+    Rate: 110
+  - Overall: 59.160779571533205
+    Chordjack: 59.003091430664064
+    Handstream: 33.33869590759277
+    Jack: 37.849493408203124
+    Jumpstream: 36.49589881896973
+    Stamina: 56.85020027160645
+    Stream: 31.208402252197267
+    Technical: 36.73799629211426
+    Rate: 120
+  - Overall: 64.3555892944336
+    Chordjack: 64.2843017578125
+    Handstream: 36.08460159301758
+    Jack: 41.01570167541504
+    Jumpstream: 39.622497940063475
+    Stamina: 61.4178108215332
+    Stream: 33.22889785766602
+    Technical: 39.21119728088379
+    Rate: 130
+  - Overall: 69.63030395507813
+    Chordjack: 69.5348876953125
+    Handstream: 38.56229667663575
+    Jack: 44.16929626464844
+    Jumpstream: 42.1533016204834
+    Stamina: 66.2439468383789
+    Stream: 35.218796539306645
+    Technical: 41.79059829711914
+    Rate: 140
+  - Overall: 74.92499313354493
+    Chordjack: 74.85209197998047
+    Handstream: 41.500799560546874
+    Jack: 47.3003963470459
+    Jumpstream: 45.21239318847656
+    Stamina: 70.93883743286133
+    Stream: 37.47239799499512
+    Technical: 44.541894149780276
+    Rate: 150
+  - Overall: 80.41950302124023
+    Chordjack: 80.27278747558594
+    Handstream: 43.8443962097168
+    Jack: 50.41799697875977
+    Jumpstream: 46.83509788513184
+    Stamina: 75.98200836181641
+    Stream: 39.51629447937012
+    Technical: 47.161796951293944
+    Rate: 160
+  - Overall: 85.47442932128907
+    Chordjack: 85.29478225708009
+    Handstream: 46.348200988769534
+    Jack: 53.51759376525879
+    Jumpstream: 50.032795715332036
+    Stamina: 80.39970703125
+    Stream: 42.02999725341797
+    Technical: 49.98869590759278
+    Rate: 170
+  - Overall: 90.82906951904297
+    Chordjack: 90.58948516845703
+    Handstream: 49.14359321594238
+    Jack: 56.60819549560547
+    Jumpstream: 52.46639442443848
+    Stamina: 85.02439498901367
+    Stream: 43.96589469909668
+    Technical: 52.56449546813965
+    Rate: 180
+  - Overall: 96.18370971679688
+    Chordjack: 95.86618423461914
+    Handstream: 51.62579612731934
+    Jack: 59.68979187011719
+    Jumpstream: 55.44899711608887
+    Stamina: 89.59148025512695
+    Stream: 46.91789703369141
+    Technical: 55.712693023681645
+    Rate: 190
+  - Overall: 101.87801971435547
+    Chordjack: 101.44708099365235
+    Handstream: 54.9530948638916
+    Jack: 62.74890060424805
+    Jumpstream: 57.63599395751953
+    Stamina: 94.47013092041016
+    Stream: 48.6350944519043
+    Technical: 58.17329406738281
+    Rate: 200

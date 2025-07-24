@@ -1,0 +1,138 @@
+Artist: Falcom Sound Team jdk
+AssetId: rbxassetid://0
+CoverImageAssetId: ""
+Description: ""
+Filename: The Azure Arbitrator
+HitSFXGroup: 0
+Mapper: Evening
+MD5Hash: 561cf4667abfe9d9844e82129ccef0d2
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 39.44052314758301
+    Chordjack: 28.43189277648926
+    Handstream: 28.252793312072754
+    Jack: 23.32079372406006
+    Jumpstream: 38.70809555053711
+    Stamina: 38.66938934326172
+    Stream: 36.630896759033206
+    Technical: 34.68959884643555
+    Rate: 70
+  - Overall: 44.19576301574707
+    Chordjack: 32.92829818725586
+    Handstream: 32.59260063171387
+    Jack: 26.868593215942383
+    Jumpstream: 43.24499931335449
+    Stamina: 43.2017578125
+    Stream: 41.413496017456055
+    Technical: 39.17699890136719
+    Rate: 80
+  - Overall: 49.03092155456543
+    Chordjack: 37.48679695129395
+    Handstream: 37.688392639160156
+    Jack: 30.483901977539062
+    Jumpstream: 47.807995605468754
+    Stamina: 47.76019134521484
+    Stream: 46.47689552307129
+    Technical: 44.10719604492188
+    Rate: 90
+  - Overall: 53.985961532592775
+    Chordjack: 41.4998966217041
+    Handstream: 43.07039566040039
+    Jack: 34.081196594238286
+    Jumpstream: 52.429490661621095
+    Stamina: 52.37706184387207
+    Stream: 51.67979393005371
+    Technical: 49.005893325805665
+    Rate: 100
+  - Overall: 58.76117935180664
+    Chordjack: 45.47699890136719
+    Handstream: 47.562293243408206
+    Jack: 37.67849464416504
+    Jumpstream: 56.544289398193364
+    Stamina: 56.8653751373291
+    Stream: 56.92229118347168
+    Technical: 53.8100944519043
+    Rate: 110
+  - Overall: 63.896044921875
+    Chordjack: 50.14709129333496
+    Handstream: 53.16299285888672
+    Jack: 41.24429626464844
+    Jumpstream: 61.56809005737305
+    Stamina: 61.842796325683594
+    Stream: 61.90469741821289
+    Technical: 58.68628692626953
+    Rate: 120
+  - Overall: 69.11082229614259
+    Chordjack: 54.1952922821045
+    Handstream: 58.994989013671876
+    Jack: 44.787596511840825
+    Jumpstream: 65.85749588012696
+    Stamina: 67.25986633300782
+    Stream: 67.32719192504884
+    Technical: 63.42749862670899
+    Rate: 130
+  - Overall: 74.22569961547852
+    Chordjack: 58.35598983764648
+    Handstream: 62.95770263671875
+    Jack: 48.31829338073731
+    Jumpstream: 70.83178939819337
+    Stamina: 72.25975799560547
+    Stream: 72.33208923339843
+    Technical: 68.11559143066407
+    Rate: 140
+  - Overall: 78.64128341674805
+    Chordjack: 62.71289978027344
+    Handstream: 68.4593879699707
+    Jack: 51.843593215942384
+    Jumpstream: 74.15458374023437
+    Stamina: 76.76695404052735
+    Stream: 76.84378967285157
+    Technical: 72.65069274902343
+    Rate: 150
+  - Overall: 83.51639099121094
+    Chordjack: 67.1804901123047
+    Handstream: 73.26809005737304
+    Jack: 55.351792144775395
+    Jumpstream: 78.41698379516602
+    Stamina: 81.68591766357422
+    Stream: 81.76768341064454
+    Technical: 76.76908950805664
+    Rate: 160
+  - Overall: 89.0708381652832
+    Chordjack: 71.08558731079101
+    Handstream: 79.00648269653321
+    Jack: 58.84109115600586
+    Jumpstream: 82.70187835693359
+    Stamina: 87.27653045654297
+    Stream: 87.36388549804688
+    Technical: 81.45268478393555
+    Rate: 170
+  - Overall: 93.46643371582032
+    Chordjack: 75.73318862915039
+    Handstream: 82.56237945556641
+    Jack: 62.273693847656254
+    Jumpstream: 86.50257797241211
+    Stamina: 91.60658569335938
+    Stream: 91.69828033447266
+    Technical: 85.61608428955078
+    Rate: 180
+  - Overall: 98.88101806640626
+    Chordjack: 80.2358871459961
+    Handstream: 87.80038604736329
+    Jack: 65.82150192260742
+    Jumpstream: 91.49308319091797
+    Stamina: 96.92206649780273
+    Stream: 97.01908264160157
+    Technical: 90.40588302612305
+    Rate: 190
+  - Overall: 102.97690658569336
+    Chordjack: 83.68378829956055
+    Handstream: 92.8817756652832
+    Jack: 69.19558868408204
+    Jumpstream: 95.7959815979004
+    Stamina: 100.90237197875977
+    Stream: 101.00337066650391
+    Technical: 94.74388275146485
+    Rate: 200

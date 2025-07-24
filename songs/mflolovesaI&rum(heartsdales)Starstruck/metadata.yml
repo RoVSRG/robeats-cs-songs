@@ -1,0 +1,138 @@
+Artist: m-flo loves AI &  & Rum (Heartsdales)
+AssetId: rbxassetid://6280139203
+CoverImageAssetId: ""
+Description: ""
+Filename: Starstruck (Speed Up Ver.)
+HitSFXGroup: 0
+Mapper: Leo137
+MD5Hash: acd9369efa7a4c57792c98a2734795da
+NotePrebufferTime: 1000
+TimeOffset: -75
+Volume: 0.5
+Difficulty:
+  - Overall: 38.58138198852539
+    Chordjack: 25.396193504333496
+    Handstream: 30.174300384521484
+    Jack: 19.41389751434326
+    Jumpstream: 37.53899574279785
+    Stamina: 37.501456832885744
+    Stream: 36.09719467163086
+    Technical: 35.99819412231445
+    Rate: 70
+  - Overall: 42.9569995880127
+    Chordjack: 29.610897445678713
+    Handstream: 35.00999450683594
+    Jack: 22.477498626708986
+    Jumpstream: 41.46659774780274
+    Stamina: 41.425131225585936
+    Stream: 40.64669494628907
+    Technical: 40.5476978302002
+    Rate: 80
+  - Overall: 47.612339401245116
+    Chordjack: 33.838199615478516
+    Handstream: 39.67559623718262
+    Jack: 25.66619453430176
+    Jumpstream: 45.75059623718262
+    Stamina: 45.70484848022461
+    Stream: 45.3068962097168
+    Technical: 45.253797912597655
+    Rate: 90
+  - Overall: 51.82811622619629
+    Chordjack: 37.86389579772949
+    Handstream: 44.201699066162114
+    Jack: 28.78740177154541
+    Jumpstream: 49.495492172241214
+    Stamina: 49.55209579467773
+    Stream: 49.60169563293457
+    Technical: 49.6601978302002
+    Rate: 100
+  - Overall: 56.42351875305176
+    Chordjack: 41.89319686889649
+    Handstream: 48.73769302368164
+    Jack: 31.913096237182618
+    Jumpstream: 53.7659912109375
+    Stamina: 54.131211090087895
+    Stream: 54.185394287109375
+    Technical: 53.947794342041014
+    Rate: 110
+  - Overall: 60.91901779174805
+    Chordjack: 45.84689483642578
+    Handstream: 52.97219467163086
+    Jack: 35.02170181274414
+    Jumpstream: 57.768296813964845
+    Stamina: 58.54039535522461
+    Stream: 58.59899368286133
+    Technical: 58.52249450683594
+    Rate: 120
+  - Overall: 65.4345085144043
+    Chordjack: 50.50619659423828
+    Handstream: 57.382196044921876
+    Jack: 37.98629722595215
+    Jumpstream: 62.02709884643555
+    Stamina: 62.97295989990234
+    Stream: 63.03599395751953
+    Technical: 62.91990280151367
+    Rate: 130
+  - Overall: 69.83010406494141
+    Chordjack: 55.224893188476564
+    Handstream: 62.33310241699219
+    Jack: 40.90229873657227
+    Jumpstream: 65.96639785766602
+    Stamina: 67.33718948364258
+    Stream: 67.40459060668945
+    Technical: 67.2524917602539
+    Rate: 140
+  - Overall: 74.3455810546875
+    Chordjack: 59.36579132080078
+    Handstream: 66.72509994506837
+    Jack: 43.89749794006348
+    Jumpstream: 70.05869522094727
+    Stamina: 71.62359466552735
+    Stream: 71.67058181762695
+    Technical: 72.06029434204102
+    Rate: 150
+  - Overall: 78.2816390991211
+    Chordjack: 63.90898818969727
+    Handstream: 71.56348571777345
+    Jack: 47.02859802246094
+    Jumpstream: 73.3904914855957
+    Stamina: 75.11168518066407
+    Stream: 75.67378692626953
+    Technical: 76.07158813476563
+    Rate: 160
+  - Overall: 82.47744140625001
+    Chordjack: 69.43678665161133
+    Handstream: 76.06258621215821
+    Jack: 50.12279434204102
+    Jumpstream: 76.83749313354492
+    Stamina: 79.21207122802734
+    Stream: 79.5554901123047
+    Technical: 80.47258758544922
+    Rate: 170
+  - Overall: 86.47342987060547
+    Chordjack: 73.96828994750977
+    Handstream: 80.54368286132812
+    Jack: 53.24039840698242
+    Jumpstream: 80.58058319091798
+    Stamina: 82.55030136108398
+    Stream: 83.54878692626953
+    Technical: 84.5459815979004
+    Rate: 180
+  - Overall: 90.44946441650391
+    Chordjack: 78.37289428710938
+    Handstream: 85.21288604736328
+    Jack: 56.442600631713866
+    Jumpstream: 84.43618698120117
+    Stamina: 86.09529418945313
+    Stream: 87.11368560791016
+    Technical: 88.57077484130859
+    Rate: 190
+  - Overall: 95.02487182617188
+    Chordjack: 85.04548873901368
+    Handstream: 89.85508346557617
+    Jack: 59.381996154785156
+    Jumpstream: 88.6184898376465
+    Stamina: 90.26176300048829
+    Stream: 91.90708923339844
+    Technical: 92.9897850036621
+    Rate: 200
