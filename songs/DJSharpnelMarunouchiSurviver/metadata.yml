@@ -2,7 +2,7 @@ Artist: DJ Sharpnel
 AssetId: rbxassetid://5732633617
 CoverImageAssetId: ''
 Description: ''
-Filename: Marunouchi Surviver
+Filename: Marunouchi Survivor
 HitSFXGroup: 0
 Mapper: IcyWorld
 MD5Hash: b0ae2638130a3b995da6c506f94f7974
@@ -10,7 +10,7 @@ NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 42.53741798400879
+- Overall: 38
   Chordjack: 30.316501235961915
   Handstream: 34.86869316101075
   Jack: 25.319696044921876

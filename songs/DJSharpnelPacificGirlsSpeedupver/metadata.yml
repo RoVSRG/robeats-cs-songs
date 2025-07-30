@@ -4,13 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Pacific Girls (Speed up ver.)
 HitSFXGroup: 0
-Mapper: IcyWorld
+Mapper: NikoSek
 MD5Hash: d8386eed6a4a57340ca05b35e31774e1
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 43.12709541320801
+- Overall: 39
   Chordjack: 29.280603790283205
   Handstream: 28.230295372009277
   Jack: 24.53129825592041
