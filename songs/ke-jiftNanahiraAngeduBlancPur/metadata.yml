@@ -1,7 +1,7 @@
 Artist: ke-ji feat. Nanahira
 AssetId: rbxassetid://9042605436
-CoverImageAssetId: ""
-Description: ""
+CoverImageAssetId: ''
+Description: ''
 Filename: Ange du Blanc Pur (HEAVY)
 HitSFXGroup: 0
 Mapper: Ska
@@ -10,129 +10,12 @@ NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-  - Overall: 35.16480560302735
-    Chordjack: 26.56439380645752
-    Handstream: 25.59599361419678
-    Jack: 21.758395385742187
-    Jumpstream: 33.95519714355469
-    Stamina: 32.14863967895508
-    Stream: 34.90829544067383
-    Technical: 32.66549835205078
-    Rate: 70
-  - Overall: 39.56399917602539
-    Chordjack: 31.180503845214844
-    Handstream: 29.590198516845703
-    Jack: 25.077593421936037
-    Jumpstream: 37.13039703369141
-    Stamina: 36.40516548156739
-    Stream: 39.56399917602539
-    Technical: 36.926099395751955
-    Rate: 80
-  - Overall: 44.66610145568848
-    Chordjack: 35.4248966217041
-    Handstream: 33.96329612731934
-    Jack: 28.401295852661132
-    Jumpstream: 40.740295028686525
-    Stamina: 40.754508590698244
-    Stream: 44.66610145568848
-    Technical: 41.492697143554686
-    Rate: 90
-  - Overall: 49.25429763793945
-    Chordjack: 39.351595687866215
-    Handstream: 36.9818962097168
-    Jack: 31.72049903869629
-    Jumpstream: 44.0216983795166
-    Stamina: 44.79359436035156
-    Stream: 49.25429763793945
-    Technical: 45.89639854431152
-    Rate: 100
-  - Overall: 54.34289703369141
-    Chordjack: 43.75620002746582
-    Handstream: 40.935594177246095
-    Jack: 35.035194396972656
-    Jumpstream: 47.27789497375488
-    Stamina: 49.10406646728516
-    Stream: 54.34289703369141
-    Technical: 50.399996566772465
-    Rate: 110
-  - Overall: 59.03819961547852
-    Chordjack: 47.60279502868652
-    Handstream: 44.63729667663574
-    Jack: 38.32289772033692
-    Jumpstream: 49.92569618225098
-    Stamina: 53.15528869628906
-    Stream: 59.03819961547852
-    Technical: 54.894596099853516
-    Rate: 120
-  - Overall: 64.37339401245117
-    Chordjack: 51.53309555053711
-    Handstream: 47.40659980773926
-    Jack: 41.59260063171387
-    Jumpstream: 54.37529296875
-    Stamina: 57.92347869873047
-    Stream: 64.37339401245117
-    Technical: 59.611507415771484
-    Rate: 130
-  - Overall: 69.25138549804687
-    Chordjack: 55.02239799499512
-    Handstream: 51.3062931060791
-    Jack: 44.83979530334473
-    Jumpstream: 57.761093902587895
-    Stamina: 61.898510742187504
-    Stream: 69.25138549804687
-    Technical: 63.60479736328125
-    Rate: 140
-  - Overall: 74.08528747558594
-    Chordjack: 60.19199752807617
-    Handstream: 54.82169151306152
-    Jack: 48.06089744567871
-    Jumpstream: 60.717604064941405
-    Stamina: 66.06321487426759
-    Stream: 74.08528747558594
-    Technical: 68.4431968688965
-    Rate: 150
-  - Overall: 79.22699203491212
-    Chordjack: 64.30229873657227
-    Handstream: 59.39279708862305
-    Jack: 51.258598709106444
-    Jumpstream: 64.70279159545899
-    Stamina: 70.22287902832032
-    Stream: 79.22699203491212
-    Technical: 72.94590225219727
-    Rate: 160
-  - Overall: 83.7161979675293
-    Chordjack: 69.24508895874024
-    Handstream: 63.613792419433594
-    Jack: 54.43919219970703
-    Jumpstream: 68.0831886291504
-    Stamina: 73.91300811767579
-    Stream: 83.70269165039063
-    Technical: 77.35858840942383
-    Rate: 170
-  - Overall: 89.01090087890626
-    Chordjack: 74.62078857421875
-    Handstream: 66.0428970336914
-    Jack: 57.601792144775395
-    Jumpstream: 72.05489730834961
-    Stamina: 78.30168914794922
-    Stream: 88.91638412475587
-    Technical: 81.93778610229492
-    Rate: 180
-  - Overall: 96.12377243041992
-    Chordjack: 78.72749176025391
-    Handstream: 70.01369247436524
-    Jack: 60.70590362548828
-    Jumpstream: 76.70968780517579
-    Stamina: 83.75011138916015
-    Stream: 95.90848159790039
-    Technical: 87.08308181762696
-    Rate: 190
-  - Overall: 98.64126205444336
-    Chordjack: 82.31398544311524
-    Handstream: 73.82879791259766
-    Jack: 63.77489318847656
-    Jumpstream: 79.25938110351562
-    Stamina: 85.52242584228516
-    Stream: 98.32678527832032
-    Technical: 90.54897994995117
-    Rate: 200
+- Overall: 49.25429763793945
+  Chordjack: 39.351595687866215
+  Handstream: 36.9818962097168
+  Jack: 31.72049903869629
+  Jumpstream: 44.0216983795166
+  Stamina: 44.79359436035156
+  Stream: 49.25429763793945
+  Technical: 45.89639854431152
+  Rate: 100

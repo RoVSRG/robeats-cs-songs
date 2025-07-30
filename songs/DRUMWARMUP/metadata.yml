@@ -1,138 +1,21 @@
 Artist: Various Fartists
 AssetId: rbxassetid://13646300488
-CoverImageAssetId: ""
-Description: ""
+CoverImageAssetId: ''
+Description: ''
 Filename: Easy Drum Warmups for Beginner Drumlines
 HitSFXGroup: 0
-Mapper: "[illogical]"
+Mapper: '[illogical]'
 MD5Hash: 4c6e6bbaaf9e1a908e025b29e06d73bc
 NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-  - Overall: 30.430803680419924
-    Chordjack: 18.869397926330567
-    Handstream: 20.518196868896485
-    Jack: 21.203996086120608
-    Jumpstream: 26.117995262145996
-    Stamina: 24.686176300048828
-    Stream: 26.574296951293945
-    Technical: 30.430803680419924
-    Rate: 70
-  - Overall: 34.12799835205078
-    Chordjack: 21.923095893859863
-    Handstream: 23.381096649169923
-    Jack: 24.624896621704103
-    Jumpstream: 29.136603927612306
-    Stamina: 27.58212947845459
-    Stream: 29.235601043701173
-    Technical: 34.12799835205078
-    Rate: 80
-  - Overall: 37.76759719848633
-    Chordjack: 24.737394905090333
-    Handstream: 26.113496017456054
-    Jack: 28.02869453430176
-    Jumpstream: 31.734901428222656
-    Stamina: 30.598146057128908
-    Stream: 32.25780258178711
-    Technical: 37.76759719848633
-    Rate: 90
-  - Overall: 40.423500823974614
-    Chordjack: 28.565100288391115
-    Handstream: 28.98450164794922
-    Jack: 31.530600357055665
-    Jumpstream: 34.67249794006348
-    Stamina: 32.791363906860354
-    Stream: 34.650902938842776
-    Technical: 40.423500823974614
-    Rate: 100
-  - Overall: 44.62109870910645
-    Chordjack: 31.296601867675783
-    Handstream: 31.641301345825195
-    Jack: 35.02799491882325
-    Jumpstream: 37.88819961547852
-    Stamina: 35.981048583984375
-    Stream: 37.39590225219727
-    Technical: 44.62109870910645
-    Rate: 110
-  - Overall: 47.82689895629883
-    Chordjack: 34.40879859924316
-    Handstream: 34.748997116088866
-    Jack: 38.40390129089356
-    Jumpstream: 39.57030258178711
-    Stamina: 38.609246063232426
-    Stream: 39.456903076171876
-    Technical: 47.82689895629883
-    Rate: 120
-  - Overall: 53.01269645690918
-    Chordjack: 36.79379997253418
-    Handstream: 37.04399642944336
-    Jack: 41.77170181274414
-    Jumpstream: 43.45199890136719
-    Stamina: 42.63552932739258
-    Stream: 42.525
-    Technical: 53.01269645690918
-    Rate: 130
-  - Overall: 56.271605300903325
-    Chordjack: 39.965401840209964
-    Handstream: 38.20679969787598
-    Jack: 45.18809967041016
-    Jumpstream: 45.61649780273438
-    Stamina: 45.132402420043945
-    Stream: 45.09629859924316
-    Technical: 56.271605300903325
-    Rate: 140
-  - Overall: 59.46389923095703
-    Chordjack: 43.15409774780274
-    Handstream: 41.48459815979004
-    Jack: 48.578394699096684
-    Jumpstream: 49.26599807739258
-    Stamina: 47.721876525878905
-    Stream: 46.47779846191406
-    Technical: 59.46389923095703
-    Rate: 150
-  - Overall: 64.14839401245118
-    Chordjack: 45.479700851440434
-    Handstream: 42.87059898376465
-    Jack: 51.90119590759277
-    Jumpstream: 50.14709815979004
-    Stamina: 51.171267700195315
-    Stream: 49.36589813232422
-    Technical: 64.14839401245118
-    Rate: 160
-  - Overall: 67.52879791259765
-    Chordjack: 48.5693962097168
-    Handstream: 47.4596981048584
-    Jack: 55.13939895629883
-    Jumpstream: 54.10889511108399
-    Stamina: 54.01253471374512
-    Stream: 52.61669769287109
-    Technical: 67.52879791259765
-    Rate: 170
-  - Overall: 72.90809555053711
-    Chordjack: 49.40639991760254
-    Handstream: 48.737696456909184
-    Jack: 58.27859802246094
-    Jumpstream: 55.88459815979004
-    Stamina: 58.588934326171874
-    Stream: 55.1069995880127
-    Technical: 72.90809555053711
-    Rate: 180
-  - Overall: 73.06362762451172
-    Chordjack: 53.97254447937012
-    Handstream: 51.99696235656739
-    Jack: 61.009682464599614
-    Jumpstream: 60.53189392089844
-    Stamina: 58.498599243164065
-    Stream: 55.5911361694336
-    Technical: 73.06362762451172
-    Rate: 190
-  - Overall: 76.34781875610352
-    Chordjack: 55.21575050354004
-    Handstream: 53.755609130859376
-    Jack: 63.21458358764649
-    Jumpstream: 61.17323455810547
-    Stamina: 61.51927642822266
-    Stream: 58.377907562255864
-    Technical: 76.34781875610352
-    Rate: 200
+- Overall: 40.423500823974614
+  Chordjack: 28.565100288391115
+  Handstream: 28.98450164794922
+  Jack: 31.530600357055665
+  Jumpstream: 34.67249794006348
+  Stamina: 32.791363906860354
+  Stream: 34.650902938842776
+  Technical: 40.423500823974614
+  Rate: 100

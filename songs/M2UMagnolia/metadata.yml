@@ -1,138 +1,21 @@
 Artist: M2U
 AssetId: rbxassetid://0
-CoverImageAssetId: ""
-Description: ""
+CoverImageAssetId: ''
+Description: ''
 Filename: Magnolia (NO AUDIO)
 HitSFXGroup: 0
-Mapper: "- Ran Mitake -"
+Mapper: '- Ran Mitake -'
 MD5Hash: ee9da23214550add3a870d2d82ef5985
 NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-  - Overall: 40.93902053833008
-    Chordjack: 40.87980079650879
-    Handstream: 28.074595069885255
-    Jack: 24.4142972946167
-    Jumpstream: 29.726102828979492
-    Stamina: 39.7467155456543
-    Stream: 23.59709644317627
-    Technical: 27.28169288635254
-    Rate: 70
-  - Overall: 47.312642669677736
-    Chordjack: 47.288695907592775
-    Handstream: 31.670102691650392
-    Jack: 28.277100563049316
-    Jumpstream: 33.08490142822266
-    Stamina: 45.61065101623535
-    Stream: 26.35649642944336
-    Technical: 30.242700576782227
-    Rate: 80
-  - Overall: 53.39699478149414
-    Chordjack: 53.39699478149414
-    Handstream: 35.16299629211426
-    Jack: 32.113799285888675
-    Jumpstream: 36.48779983520508
-    Stamina: 50.82081756591797
-    Stream: 29.187000274658203
-    Technical: 33.506996154785156
-    Rate: 90
-  - Overall: 59.66729736328125
-    Chordjack: 59.66729736328125
-    Handstream: 38.789998626708986
-    Jack: 35.941501235961915
-    Jumpstream: 39.62340087890625
-    Stamina: 56.58240509033203
-    Stream: 31.96439895629883
-    Technical: 36.76319961547852
-    Rate: 100
-  - Overall: 65.7044906616211
-    Chordjack: 65.7044906616211
-    Handstream: 42.34499931335449
-    Jack: 39.77820510864258
-    Jumpstream: 43.59959678649903
-    Stamina: 61.91937789916992
-    Stream: 34.47809829711914
-    Technical: 40.054497528076176
-    Rate: 110
-  - Overall: 72.33298873901367
-    Chordjack: 72.33298873901367
-    Handstream: 45.86039772033691
-    Jack: 43.632899093627934
-    Jumpstream: 47.08799629211426
-    Stamina: 68.172802734375
-    Stream: 37.304097747802736
-    Technical: 43.533895111083986
-    Rate: 120
-  - Overall: 78.66125793457032
-    Chordjack: 78.60778198242188
-    Handstream: 49.38029365539551
-    Jack: 47.4930004119873
-    Jumpstream: 50.240694808959965
-    Stamina: 73.95143280029298
-    Stream: 39.67829475402832
-    Technical: 46.73609733581543
-    Rate: 130
-  - Overall: 85.05485458374024
-    Chordjack: 84.9311897277832
-    Handstream: 53.27549285888672
-    Jack: 51.32069549560547
-    Jumpstream: 54.24389305114746
-    Stamina: 79.54190826416016
-    Stream: 42.983998489379886
-    Technical: 50.27399711608887
-    Rate: 140
-  - Overall: 91.74815826416015
-    Chordjack: 91.5362937927246
-    Handstream: 56.12849464416504
-    Jack: 55.108802032470706
-    Jumpstream: 57.736793518066406
-    Stamina: 85.36962661743165
-    Stream: 45.15209884643555
-    Technical: 53.157592391967775
-    Rate: 150
-  - Overall: 98.38151779174805
-    Chordjack: 98.04778060913087
-    Handstream: 60.52049560546875
-    Jack: 58.80780258178711
-    Jumpstream: 61.351199340820315
-    Stamina: 91.2367790222168
-    Stream: 48.16259994506836
-    Technical: 56.65500068664551
-    Rate: 160
-  - Overall: 105.25462646484375
-    Chordjack: 104.74738082885743
-    Handstream: 64.15199203491211
-    Jack: 62.385294342041014
-    Jumpstream: 65.02319412231445
-    Stamina: 97.37758026123048
-    Stream: 50.97059898376465
-    Technical: 60.20550384521484
-    Rate: 170
-  - Overall: 111.60826721191407
-    Chordjack: 110.94927978515625
-    Handstream: 68.93728637695312
-    Jack: 65.73059005737305
-    Jumpstream: 69.27568588256837
-    Stamina: 102.57484130859375
-    Stream: 54.1997932434082
-    Technical: 63.70830230712891
-    Rate: 180
-  - Overall: 117.80207061767578
-    Chordjack: 116.99369659423829
-    Handstream: 72.07649230957031
-    Jack: 68.9948959350586
-    Jumpstream: 72.0710952758789
-    Stamina: 107.2642936706543
-    Stream: 56.76119728088379
-    Technical: 66.92759170532227
-    Rate: 190
-  - Overall: 124.12323303222657
-    Chordjack: 123.12181549072265
-    Handstream: 75.69599990844726
-    Jack: 70.91091842651367
-    Jumpstream: 75.91614532470703
-    Stamina: 112.67464828491211
-    Stream: 59.97396697998047
-    Technical: 70.48136672973634
-    Rate: 200
+- Overall: 59.66729736328125
+  Chordjack: 59.66729736328125
+  Handstream: 38.789998626708986
+  Jack: 35.941501235961915
+  Jumpstream: 39.62340087890625
+  Stamina: 56.58240509033203
+  Stream: 31.96439895629883
+  Technical: 36.76319961547852
+  Rate: 100
