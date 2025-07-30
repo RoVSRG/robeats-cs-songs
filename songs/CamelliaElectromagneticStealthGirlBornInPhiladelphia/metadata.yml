@@ -1,7 +1,7 @@
 Artist: Camellia
 AssetId: rbxassetid://7078753094
-CoverImageAssetId: ""
-Description: ""
+CoverImageAssetId: ''
+Description: ''
 Filename: Electromagnetic Stealth Girl Born In Philadelphia
 HitSFXGroup: 0
 Mapper: GanyuTheHalfQilin
@@ -10,129 +10,12 @@ NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-  - Overall: 25.134840774536134
-    Chordjack: 16.054199409484863
-    Handstream: 16.35479907989502
-    Jack: 14.101200199127197
-    Jumpstream: 24.362095069885253
-    Stamina: 24.18398609161377
-    Stream: 24.2081937789917
-    Technical: 23.71589641571045
-    Rate: 70
-  - Overall: 28.93103942871094
-    Chordjack: 18.434696388244628
-    Handstream: 19.165496635437012
-    Jack: 16.369198036193847
-    Jumpstream: 27.959393119812013
-    Stamina: 27.81185703277588
-    Stream: 27.8396936416626
-    Technical: 27.177295303344728
-    Rate: 80
-  - Overall: 32.207766723632815
-    Chordjack: 20.904295921325684
-    Handstream: 22.65029640197754
-    Jack: 18.664197349548342
-    Jumpstream: 30.983405685424806
-    Stamina: 30.869704055786134
-    Stream: 30.900603103637696
-    Technical: 30.417304229736327
-    Rate: 90
-  - Overall: 35.36460227966309
-    Chordjack: 23.355895042419434
-    Handstream: 24.985794067382812
-    Jack: 20.980796813964844
-    Jumpstream: 33.75719947814942
-    Stamina: 33.98058586120606
-    Stream: 34.01459884643555
-    Technical: 33.46829681396485
-    Rate: 100
-  - Overall: 38.401563262939455
-    Chordjack: 25.75349464416504
-    Handstream: 27.302393531799318
-    Jack: 23.29379653930664
-    Jumpstream: 36.38159294128418
-    Stamina: 36.943121337890624
-    Stream: 36.98010063171387
-    Technical: 36.4661979675293
-    Rate: 110
-  - Overall: 41.478480148315434
-    Chordjack: 28.169994163513184
-    Handstream: 30.743100357055663
-    Jack: 25.605895042419434
-    Jumpstream: 38.74409637451172
-    Stamina: 39.982077026367186
-    Stream: 40.02209815979004
-    Technical: 39.645895385742186
-    Rate: 120
-  - Overall: 44.39556312561035
-    Chordjack: 30.63420181274414
-    Handstream: 33.03359870910645
-    Jack: 27.91889305114746
-    Jumpstream: 41.10479393005371
-    Stamina: 42.83671989440918
-    Stream: 42.879597473144536
-    Technical: 42.57089881896973
-    Rate: 130
-  - Overall: 47.792161560058595
-    Chordjack: 32.58359870910645
-    Handstream: 36.00359802246094
-    Jack: 30.272404861450195
-    Jumpstream: 43.631096649169926
-    Stamina: 46.19305686950684
-    Stream: 46.23929557800293
-    Technical: 45.98819618225098
-    Rate: 140
-  - Overall: 50.96898193359375
-    Chordjack: 34.95869522094727
-    Handstream: 39.37499656677246
-    Jack: 32.64749794006348
-    Jumpstream: 46.382392501831056
-    Stamina: 49.33810958862305
-    Stream: 49.38749313354492
-    Technical: 49.01129722595215
-    Rate: 150
-  - Overall: 53.84610214233398
-    Chordjack: 36.97109870910645
-    Handstream: 40.98959541320801
-    Jack: 35.023493957519534
-    Jumpstream: 48.3623966217041
-    Stamina: 52.08126525878907
-    Stream: 52.13339538574219
-    Technical: 52.0568962097168
-    Rate: 160
-  - Overall: 56.84309692382813
-    Chordjack: 38.93399505615235
-    Handstream: 44.25389442443848
-    Jack: 37.389595413208006
-    Jumpstream: 51.189295578002934
-    Stamina: 54.76583290100098
-    Stream: 55.401292419433595
-    Technical: 54.772194671630864
-    Rate: 170
-  - Overall: 59.50043563842774
-    Chordjack: 40.97249794006348
-    Handstream: 47.93939552307129
-    Jack: 39.743096923828126
-    Jumpstream: 53.33489456176758
-    Stamina: 57.252457809448245
-    Stream: 57.9419906616211
-    Technical: 57.55769920349121
-    Rate: 180
-  - Overall: 62.35758819580078
-    Chordjack: 43.51319961547852
-    Handstream: 50.162393188476564
-    Jack: 42.08309898376465
-    Jumpstream: 55.700996017456056
-    Stamina: 59.48527450561524
-    Stream: 60.83910598754883
-    Technical: 60.630297088623045
-    Rate: 190
-  - Overall: 65.87406463623047
-    Chordjack: 45.37799835205078
-    Handstream: 52.40249519348145
-    Jack: 44.408695220947266
-    Jumpstream: 58.30379104614258
-    Stamina: 62.59477615356445
-    Stream: 64.41659088134766
-    Technical: 64.11870346069337
-    Rate: 200
+- Overall: 33
+  Chordjack: 23.355895042419434
+  Handstream: 24.985794067382812
+  Jack: 20.980796813964844
+  Jumpstream: 33.75719947814942
+  Stamina: 33.98058586120606
+  Stream: 34.01459884643555
+  Technical: 33.46829681396485
+  Rate: 100

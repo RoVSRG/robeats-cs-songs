@@ -1,7 +1,7 @@
 Artist: Super Psychic Fujy & Le Oos-On
 AssetId: rbxassetid://13867184482
-CoverImageAssetId: ""
-Description: ""
+CoverImageAssetId: ''
+Description: ''
 Filename: Dark Avatara Beam (Remix by Le Oos-On)
 HitSFXGroup: 0
 Mapper: yeahitsryan
@@ -10,129 +10,12 @@ NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-  - Overall: 32.10786666870117
-    Chordjack: 19.097997665405273
-    Handstream: 21.81419563293457
-    Jack: 16.471798324584963
-    Jumpstream: 31.97069892883301
-    Stamina: 31.54196090698242
-    Stream: 29.174403762817384
-    Technical: 28.019694328308105
-    Rate: 70
-  - Overall: 35.90406188964844
-    Chordjack: 21.89699649810791
-    Handstream: 25.463694190979005
-    Jack: 19.24379825592041
-    Jumpstream: 35.68769645690918
-    Stamina: 35.131578826904295
-    Stream: 32.74740142822266
-    Technical: 31.633202362060548
-    Rate: 80
-  - Overall: 38.90106353759766
-    Chordjack: 24.763496017456056
-    Handstream: 28.894496154785156
-    Jack: 22.03919563293457
-    Jumpstream: 38.76389923095703
-    Stamina: 37.61788787841797
-    Stream: 35.788496017456055
-    Technical: 34.70489730834961
-    Rate: 90
-  - Overall: 42.47748069763184
-    Chordjack: 27.44729461669922
-    Handstream: 33.10290184020996
-    Jack: 24.830097198486328
-    Jumpstream: 42.288299560546875
-    Stamina: 40.914366531372075
-    Stream: 39.24629859924317
-    Technical: 38.265298461914064
-    Rate: 100
-  - Overall: 46.25370140075684
-    Chordjack: 29.92050247192383
-    Handstream: 36.564295578002934
-    Jack: 27.616501235961916
-    Jumpstream: 46.07549629211426
-    Stamina: 44.019810104370116
-    Stream: 43.08299903869629
-    Technical: 42.079497528076175
-    Rate: 110
-  - Overall: 50.04990005493164
-    Chordjack: 32.273097610473634
-    Handstream: 40.594499588012695
-    Jack: 30.384904861450195
-    Jumpstream: 49.70249519348145
-    Stamina: 47.30647315979004
-    Stream: 47.00969467163086
-    Technical: 45.96659774780274
-    Rate: 120
-  - Overall: 53.806142807006836
-    Chordjack: 35.04599533081055
-    Handstream: 44.342097473144534
-    Jack: 33.134398269653325
-    Jumpstream: 53.549093627929686
-    Stamina: 50.97592735290527
-    Stream: 50.05529708862305
-    Technical: 49.27949409484864
-    Rate: 130
-  - Overall: 57.68226013183594
-    Chordjack: 37.63079681396484
-    Handstream: 47.81339950561524
-    Jack: 35.68859939575196
-    Jumpstream: 57.426295852661134
-    Stamina: 54.3923526763916
-    Stream: 53.57069206237793
-    Technical: 53.2817928314209
-    Rate: 140
-  - Overall: 61.198736572265624
-    Chordjack: 40.61429901123047
-    Handstream: 51.25229187011719
-    Jack: 38.20230216979981
-    Jumpstream: 60.89670181274414
-    Stamina: 57.510736083984376
-    Stream: 56.83499794006348
-    Technical: 56.8781982421875
-    Rate: 150
-  - Overall: 65.01492004394531
-    Chordjack: 43.29269714355469
-    Handstream: 55.23749313354492
-    Jack: 40.71420249938965
-    Jumpstream: 64.61279983520508
-    Stamina: 60.74487762451172
-    Stream: 60.587100219726565
-    Technical: 60.952491760253906
-    Rate: 160
-  - Overall: 68.19174041748047
-    Chordjack: 45.881996154785156
-    Handstream: 58.591790771484376
-    Jack: 43.36109733581543
-    Jumpstream: 67.78349533081055
-    Stamina: 63.56989517211914
-    Stream: 63.730796813964844
-    Technical: 63.85409774780273
-    Rate: 170
-  - Overall: 72.42749862670898
-    Chordjack: 48.529797363281254
-    Handstream: 62.00910186767578
-    Jack: 46.01609802246094
-    Jumpstream: 72.03149642944337
-    Stamina: 67.17297134399415
-    Stream: 67.67909088134766
-    Technical: 67.9265853881836
-    Rate: 180
-  - Overall: 76.2037124633789
-    Chordjack: 51.11459884643555
-    Handstream: 64.63889923095704
-    Jack: 48.653997802734374
-    Jumpstream: 75.72598571777344
-    Stamina: 70.6863784790039
-    Stream: 70.56359252929688
-    Technical: 72.16198654174805
-    Rate: 190
-  - Overall: 78.8185203552246
-    Chordjack: 53.59541473388672
-    Handstream: 69.039404296875
-    Jack: 50.932637786865236
-    Jumpstream: 78.36676254272462
-    Stamina: 73.04015121459962
-    Stream: 73.20298233032227
-    Technical: 74.38285903930664
-    Rate: 200
+- Overall: 42.47748069763184
+  Chordjack: 27.44729461669922
+  Handstream: 33.10290184020996
+  Jack: 24.830097198486328
+  Jumpstream: 42.288299560546875
+  Stamina: 40.914366531372075
+  Stream: 39.24629859924317
+  Technical: 38.265298461914064
+  Rate: 100
