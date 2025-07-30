@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: PARANOiA Revolution
 HitSFXGroup: 0
+Mapper: '[Crz]Sel'
 MD5Hash: f4e914f11a2e14ba9167f60c70e31c7e
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 35.05589332580566
+- Overall: 30
   Chordjack: 24.004795646667482
   Handstream: 21.167097473144533
   Jack: 22.133696937561037

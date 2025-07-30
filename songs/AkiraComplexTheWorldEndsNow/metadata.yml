@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: The World Ends Now
 HitSFXGroup: 0
+Mapper: 'adamyes'
 MD5Hash: e2baacdb9d2c4a3fd083b50f28950aec
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 33.72624549865723
+- Overall: 37
   Chordjack: 23.29109630584717
   Handstream: 32.66190032958985
   Jack: 21.032097816467285

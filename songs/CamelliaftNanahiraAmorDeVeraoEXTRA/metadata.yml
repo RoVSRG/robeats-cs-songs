@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Amor De Verao (EXTRA)
 HitSFXGroup: 0
+Mapper: "PianoLuigi"
 MD5Hash: eca875e466f40741699c22d9e8b7a01a
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 35.76420249938965
+- Overall: 31
   Chordjack: 31.931096649169923
   Handstream: 30.99870071411133
   Jack: 22.58729839324951

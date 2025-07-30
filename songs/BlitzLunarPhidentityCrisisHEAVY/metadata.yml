@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Phi-dentity Crisis (HEAVY)
 HitSFXGroup: 0
+Mapper: "Skullbac"
 MD5Hash: e69822ea08108b120acddeefe4a72465
 NotePrebufferTime: 900
 TimeOffset: -50
 Volume: 0.5
 Difficulty:
-- Overall: 31.688285064697265
+- Overall: 28
   Chordjack: 20.236497116088866
   Handstream: 21.97079544067383
   Jack: 16.107299423217775

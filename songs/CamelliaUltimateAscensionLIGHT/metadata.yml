@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Ultimate Ascension (LIGHT)
 HitSFXGroup: 0
+Mapper: 'Fresh Chicken'
 MD5Hash: d23810a702e05a616fe66cfcbd003299
 NotePrebufferTime: 1000
 TimeOffset: 12
 Volume: 0.5
 Difficulty:
-- Overall: 29.520002746582033
+- Overall: 26
   Chordjack: 17.686796951293946
   Handstream: 15.979500961303712
   Jack: 14.422499656677246

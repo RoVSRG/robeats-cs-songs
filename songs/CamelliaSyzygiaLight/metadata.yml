@@ -2,7 +2,7 @@ Artist: Camellia
 AssetId: rbxassetid://10737385477
 CoverImageAssetId: ''
 Description: ''
-Filename: Syzygia
+Filename: Syzygia (LIGHT) (LN)
 HitSFXGroup: 0
 Mapper: eZmmR
 MD5Hash: fca3e60c48bb3a3b5ef574b7965aceb4
@@ -10,7 +10,7 @@ NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-- Overall: 28.31610107421875
+- Overall: 0
   Chordjack: 23.931997299194336
   Handstream: 26.860998153686523
   Jack: 16.973003387451172

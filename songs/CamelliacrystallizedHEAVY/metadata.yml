@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: crystallized (HEAVY)
 HitSFXGroup: 0
+Mapper: "Oh pie"
 MD5Hash: d16254f3304c5b989281f511012d96a2
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 33.00389785766602
+- Overall: 32
   Chordjack: 22.350594520568848
   Handstream: 27.52829475402832
   Jack: 21.81779537200928

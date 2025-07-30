@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: feel my conscious (EVENT)
 HitSFXGroup: 0
+Mapper: 'RCS Megacollab'
 MD5Hash: 097e8b8f589e63e8692018e8fcea99d9
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 46.55339813232422
+- Overall: 47
   Chordjack: 45.8567928314209
   Handstream: 41.36039772033691
   Jack: 27.954001235961915

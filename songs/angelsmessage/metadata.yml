@@ -4,13 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: The Angel's Message
 HitSFXGroup: 0
-Mapper: '[Crz]hinako1804'
+Mapper: 'OpakyL'
 MD5Hash: 01d1ed696295f37957c41db4738a17b8
 NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-- Overall: 0
+- Overall: 46
   Chordjack: 0
   Handstream: 0
   Jack: 0

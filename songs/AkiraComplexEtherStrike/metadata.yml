@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Ether Strike
 HitSFXGroup: 0
+Mapper: 'IceDynamix'
 MD5Hash: 72da382da262a273a95d5fe160059f2f
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 38.84112625122071
+- Overall: 41
   Chordjack: 26.718295097351074
   Handstream: 32.50709609985352
   Jack: 23.252396965026858

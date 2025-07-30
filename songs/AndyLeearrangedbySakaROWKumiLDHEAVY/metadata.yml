@@ -10,8 +10,8 @@ NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 41.97798042297364
-  Chordjack: 30.30480079650879
+- Overall: 45
+  Chordjack: 24
   Handstream: 34.70669288635254
   Jack: 38.90520401000977
   Jumpstream: 40.13459815979004
