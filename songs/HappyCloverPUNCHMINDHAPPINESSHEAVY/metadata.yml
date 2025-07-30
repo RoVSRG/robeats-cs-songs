@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: PUNCH MIND HAPPINESS (HEAVY)
 HitSFXGroup: 0
+Mapper: 'A_scend'
 MD5Hash: 99fa1a8821fe92f28a05a45edc30da7c
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 27.05291976928711
+- Overall: 24
   Chordjack: 20.21759548187256
   Handstream: 22.669196319580077
   Jack: 15.635699272155762
