@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Swamp Thing
 HitSFXGroup: 0
+Mapper: '_Y u r i_'
 MD5Hash: 06d8a3d7df236683e9641582cc552251
 NotePrebufferTime: 950
 TimeOffset: -20
 Volume: 0.5
-Difficulty:
-- Overall: 26.38439483642578
+Difficulty: 
+- Overall: 15
   Chordjack: 13.83210039138794
   Handstream: 13.176001167297363
   Jack: 13.774501132965089

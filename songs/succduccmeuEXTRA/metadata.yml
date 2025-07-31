@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: me & u (EXTRA)
 HitSFXGroup: 0
+Mapper: 'gemboyong'
 MD5Hash: e700c4b9bcbdf2ce0e3986f03f12710f
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 36.2237434387207
+- Overall: 37
   Chordjack: 27.73439311981201
   Handstream: 29.75490417480469
   Jack: 21.013197898864746

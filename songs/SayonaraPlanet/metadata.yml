@@ -1,16 +1,16 @@
-Artist: "Chroma \u9ED2\u9B54 / Leo137"
+Artist: "Chroma \u9ED2\u9B54"
 AssetId: rbxassetid://10693784080
 CoverImageAssetId: rbxassetid://6647254820
 Description: GRAVITY!!! SOUND VOLTEX III GRAVITY WARS
 Filename: Sayonara Planet Wars
 HitSFXGroup: 0
-Mapper: Yasi
+Mapper: "Leo137"
 MD5Hash: a1c1a3b57b35eed110e407bfbd64be85
 NotePrebufferTime: 800
 TimeOffset: 175
 Volume: 0.5
 Difficulty:
-- Overall: 46.6533016204834
+- Overall: 44
   Chordjack: 31.535101318359377
   Handstream: 35.77229461669922
   Jack: 30.513599395751953
