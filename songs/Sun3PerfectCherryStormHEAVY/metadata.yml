@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Perfect Cherry Storm (HEAVY)
 HitSFXGroup: 0
+Mapper: 'ArcadeSona'
 MD5Hash: 58f5f21ad8f0c6181d98d1da1622ec14
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 38.461503982543945
+- Overall: 32
   Chordjack: 26.59409465789795
   Handstream: 33.38279914855957
   Jack: 23.116497802734376

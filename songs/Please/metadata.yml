@@ -9,8 +9,8 @@ MD5Hash: 8398b1991c5d87e5dcbdc9e96dba1942
 NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
-Difficulty:
-- Overall: 58.50143508911133
+Difficulty: 
+- Overall: 63
   Chordjack: 58.496395111083984
   Handstream: 38.45069961547852
   Jack: 36.92249794006348

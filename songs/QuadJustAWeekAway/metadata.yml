@@ -1,4 +1,4 @@
-Artist: false
+Artist: Unknown
 AssetId: rbxassetid://13646177159
 CoverImageAssetId: ''
 Description: ''
@@ -10,7 +10,7 @@ NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-- Overall: 33.465951919555664
+- Overall: 15
   Chordjack: 19.49110565185547
   Handstream: 27.990151405334473
   Jack: 18.43882484436035

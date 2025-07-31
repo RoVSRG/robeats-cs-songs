@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: LEMON SUMMER (LIGHT)
 HitSFXGroup: 0
+Mapper: 'RoBeats'
 MD5Hash: 83b5899b899bb66b72c6c7e55d8128d0
 NotePrebufferTime: 1000
 TimeOffset: 330
 Volume: 0.5
 Difficulty:
-- Overall: 27.1927791595459
+- Overall: 21
   Chordjack: 14.685301208496094
   Handstream: 13.970699787139893
   Jack: 19.571396827697754

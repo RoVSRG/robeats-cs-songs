@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Storm Buster (HEAVY)
 HitSFXGroup: 0
+Mapper: 'victoria'
 MD5Hash: d6f903f5881c72da90bfbd6f102aa848
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 35.62434310913086
+- Overall: 33
   Chordjack: 27.936895179748536
   Handstream: 33.348597335815434
   Jack: 22.06889820098877

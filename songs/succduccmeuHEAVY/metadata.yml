@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: me & u (HEAVY)
 HitSFXGroup: 0
+Mapper: 'Shoegazer'
 MD5Hash: dae3522f9115c0027a8a5773f37c0354
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 29.790180587768557
+- Overall: 17
   Chordjack: 17.48159637451172
   Handstream: 19.554297637939452
   Jack: 18.440098571777344
