@@ -3,13 +3,14 @@ AssetId: rbxassetid://2810948982
 CoverImageAssetId: ''
 Description: ''
 Filename: TRICKL4SH 220  (HEAVY)
+Mapper: 'MeowPaz'
 HitSFXGroup: 0
 MD5Hash: 6cf7a6997e1f4728178c8e1b5922941f
 NotePrebufferTime: 1000
 TimeOffset: 0
 Volume: 0.5
 Difficulty:
-- Overall: 31.46850700378418
+- Overall: 28
   Chordjack: 22.082394218444826
   Handstream: 22.867195701599123
   Jack: 18.08729839324951

@@ -3,13 +3,14 @@ AssetId: rbxassetid://2810948982
 CoverImageAssetId: ''
 Description: ''
 Filename: TRICKL4SH 220 (EXTRA)
+Mapper: "victoria"
 HitSFXGroup: 0
 MD5Hash: 32f2afe95896b2acfa91974ff1f709ae
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 33.12684516906739
+- Overall: 31
   Chordjack: 25.994694328308107
   Handstream: 26.673295783996583
   Jack: 21.42089710235596

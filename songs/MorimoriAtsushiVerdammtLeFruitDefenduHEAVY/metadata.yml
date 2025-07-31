@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Le Fruit Defendu (HEAVY)
 HitSFXGroup: 0
+Mapper: 'Valentrixe'
 MD5Hash: e501999799e25655202996a3d8591b64
 NotePrebufferTime: 1000
 TimeOffset: -1170
 Volume: 0.5
 Difficulty:
-- Overall: 36.80315895080567
+- Overall: 32
   Chordjack: 25.347596168518066
   Handstream: 29.7594051361084
   Jack: 23.3378963470459

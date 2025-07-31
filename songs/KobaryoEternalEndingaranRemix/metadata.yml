@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Eternal Ending (aran Remix)
 HitSFXGroup: 0
+Mapper: 'tailsdk'
 MD5Hash: 54612f6986fe49951d695b5904ea1dcb
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 34.93439826965332
+- Overall: 35
   Chordjack: 34.93439826965332
   Handstream: 26.63819274902344
   Jack: 27.641701126098635

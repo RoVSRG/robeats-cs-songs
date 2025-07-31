@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: MEPHISTO (LN)
 HitSFXGroup: 0
+Mapper: 'arcwinolivirus'
 MD5Hash: 1f64303f9c01a2cb73b7d21be90cc09e
 NotePrebufferTime: 1000
 TimeOffset: 1390
 Volume: 0.5
 Difficulty:
-- Overall: 39.0808822631836
+- Overall: 0
   Chordjack: 26.677795028686525
   Handstream: 37.31399917602539
   Jack: 22.374896621704103
