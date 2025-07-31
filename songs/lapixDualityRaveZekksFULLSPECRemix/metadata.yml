@@ -4,12 +4,13 @@ CoverImageAssetId: rbxassetid://8356895943
 Description: ''
 Filename: Duality Rave (Zekk's 'FULL SPEC' Remix)
 HitSFXGroup: 0
+Mapper: 'A_scend'
 MD5Hash: c1b7c884f5a12d50398641d1389ea9a9
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 34.565401840209965
+- Overall: 34
   Chordjack: 23.050796127319337
   Handstream: 29.29409637451172
   Jack: 23.11109733581543

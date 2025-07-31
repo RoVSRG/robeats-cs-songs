@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Emperor's Divide
 HitSFXGroup: 0
+Mapper: 'Keikiri'
 MD5Hash: 50014fc999fddb393065e1ea161af7b2
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 38.0219409942627
+- Overall: 41
   Chordjack: 37.46159706115723
   Handstream: 30.51540184020996
   Jack: 27.62010097503662

@@ -4,13 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Lusamine in a Perfect World (EVENT)
 HitSFXGroup: 0
-Mapper: Various Mappers
+Mapper: RCS Megacollab
 MD5Hash: be043960ce8f5c22e05b41e413454768
 NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-- Overall: 39.420541763305664
+- Overall: 36
   Chordjack: 26.969392776489258
   Handstream: 28.927798461914062
   Jack: 22.350596237182618

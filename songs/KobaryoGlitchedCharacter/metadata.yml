@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Glitched Character
 HitSFXGroup: 0
+Mapper: 'fuzzy1033'
 MD5Hash: 13996ed63b718af3b71699eabefa81b7
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 39.480485916137695
+- Overall: 44
   Chordjack: 36.47699890136719
   Handstream: 37.66679420471191
   Jack: 26.24850082397461
