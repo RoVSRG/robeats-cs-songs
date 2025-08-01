@@ -2,7 +2,7 @@ Artist: Sawano Hiroyuki
 AssetId: rbxassetid://0
 CoverImageAssetId: ''
 Description: ''
-Filename: Vogel im Kafig(No audio)
+Filename: Vogel im Kafig
 HitSFXGroup: 0
 Mapper: '[Crz] DJ K1RA'
 MD5Hash: 856c3159f2d8420fa39c4b6da58b3367
@@ -10,7 +10,7 @@ NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-- Overall: 46.833120346069336
+- Overall: 44
   Chordjack: 26.657995605468752
   Handstream: 26.149496841430665
   Jack: 22.52069892883301

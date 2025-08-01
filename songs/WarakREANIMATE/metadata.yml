@@ -4,12 +4,13 @@ CoverImageAssetId: --FILL IN COVERART ASSETID HERE--
 Description: ''
 Filename: REANIMATE
 HitSFXGroup: 0
+Mapper: 'Lifill'
 MD5Hash: 97c055c7e4aa979f31ba446524689a69
 NotePrebufferTime: 900
 TimeOffset: -75
 Volume: 0.5
 Difficulty:
-- Overall: 25.674296951293947
+- Overall: 24
   Chordjack: 17.149498558044435
   Handstream: 16.39529914855957
   Jack: 19.47689723968506

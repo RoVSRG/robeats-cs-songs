@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Tempestissimo (HEAVY)
 HitSFXGroup: 0
+Mapper: 'codychanisawesome'
 MD5Hash: a3d890881cbfe19180d1d402b082d6d9
 NotePrebufferTime: 1000
 TimeOffset: -70
 Volume: 0.5
 Difficulty:
-- Overall: 28.951017379760742
+- Overall: 30
   Chordjack: 22.06439552307129
   Handstream: 21.90509548187256
   Jack: 19.62989730834961

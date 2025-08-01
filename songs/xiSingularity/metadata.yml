@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Singularity
 HitSFXGroup: 0
+Mapper: 'horrortic'
 MD5Hash: e62771a7b9aac5b10b0dcbda8f3af02a
 NotePrebufferTime: 1000
 TimeOffset: -75
 Volume: 0.6
 Difficulty:
-- Overall: 32.82714500427246
+- Overall: 32
   Chordjack: 22.25339469909668
   Handstream: 27.16109390258789
   Jack: 24.40169734954834

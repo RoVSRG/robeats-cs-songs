@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Disappointing life
 HitSFXGroup: 0
+Mapper: 'Random02'
 MD5Hash: b89dc5862c1e6f9fca000e4ff3cca525
 NotePrebufferTime: 1000
 TimeOffset: -77
 Volume: 0.5
 Difficulty:
-- Overall: 32.747226333618165
+- Overall: 32
   Chordjack: 24.24869556427002
   Handstream: 27.74879379272461
   Jack: 18.699298667907716
