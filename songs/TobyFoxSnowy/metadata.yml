@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Snowy
 HitSFXGroup: 0
+Mapper: 'honrik567'
 MD5Hash: 972c40f49556c2fd6904fc3f60941ed3
 NotePrebufferTime: 1000
 TimeOffset: 0
 Volume: 0.5
 Difficulty:
-- Overall: 11.303100872039796
+- Overall: 5
   Chordjack: 4.727700662612915
   Handstream: 5.645700216293335
   Jack: 8.135101318359375

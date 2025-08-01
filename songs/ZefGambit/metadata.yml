@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Gambit
 HitSFXGroup: 0
+Mapper: 'Random02'
 MD5Hash: c71f1b177380926bb25775b000e5294c
 NotePrebufferTime: 1000
 TimeOffset: -145
 Volume: 0.6
 Difficulty:
-- Overall: 30.509458923339846
+- Overall: 31
   Chordjack: 25.152295303344726
   Handstream: 17.491497802734376
   Jack: 28.017902183532716

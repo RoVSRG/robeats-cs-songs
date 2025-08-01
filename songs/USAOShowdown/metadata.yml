@@ -4,12 +4,13 @@ CoverImageAssetId: --FILL IN COVERART ASSETID HERE--
 Description: ''
 Filename: Showdown
 HitSFXGroup: 0
+Mapper: 'Puxtu'
 MD5Hash: 42fcb7c398ebf09d76978f2c24b1e5da
 NotePrebufferTime: 960
 TimeOffset: -85
 Volume: 0.5
 Difficulty:
-- Overall: 37.90205955505371
+- Overall: 33
   Chordjack: 22.05989627838135
   Handstream: 20.56409568786621
   Jack: 18.05129928588867

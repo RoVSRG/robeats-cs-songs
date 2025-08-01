@@ -5,17 +5,17 @@ Description: ''
 Filename: G1ll35 D3 R415 (HEAVY)
 HitSFXGroup: 0
 Mapper: Allezard
-MD5Hash: ca47d902fa17e0f5910016416d7ed5e0
+MD5Hash: 02b37acb0cb8321e5d05930da601b2c2
 NotePrebufferTime: 1000
 TimeOffset: 0
 Volume: 0.5
 Difficulty:
-- Overall: 40.199760818481444
-  Chordjack: 29.996102142333985
-  Handstream: 38.35979461669922
-  Jack: 25.563595962524413
-  Jumpstream: 37.13579750061035
-  Stamina: 38.55027694702149
-  Stream: 35.98019714355469
-  Technical: 39.248097610473636
+- Overall: 34
+  Chordjack: 29.124896621704103
+  Handstream: 36.09179763793946
+  Jack: 25.33949718475342
+  Jumpstream: 34.9541976928711
+  Stamina: 35.82951622009278
+  Stream: 32.78969879150391
+  Technical: 36.74699821472168
   Rate: 100

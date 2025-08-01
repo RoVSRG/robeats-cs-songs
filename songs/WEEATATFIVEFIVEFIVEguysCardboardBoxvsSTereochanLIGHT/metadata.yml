@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Cardboard Box vs. STereochan (LIGHT)
 HitSFXGroup: 0
+Mapper: 'Cokiiplay'
 MD5Hash: aa926a1812ca427b7b973e0e610cae60
 NotePrebufferTime: 1000
 TimeOffset: 0
 Volume: 0.5
 Difficulty:
-- Overall: 36.603362274169925
+- Overall: 32
   Chordjack: 23.34239559173584
   Handstream: 25.011896896362305
   Jack: 27.809095001220705

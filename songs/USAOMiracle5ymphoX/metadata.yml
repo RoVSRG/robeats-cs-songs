@@ -4,12 +4,13 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Miracle 5ympho X
 HitSFXGroup: 0
+Mapper: 'ArcadeSona'
 MD5Hash: c4ba69b2597c8410410b9390f060462e
 NotePrebufferTime: 1000
 TimeOffset: -47
 Volume: 0.5
 Difficulty:
-- Overall: 34.436693572998045
+- Overall: 31
   Chordjack: 22.902297019958496
   Handstream: 24.065996360778808
   Jack: 19.99529914855957

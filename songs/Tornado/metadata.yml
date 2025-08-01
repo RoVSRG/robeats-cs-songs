@@ -1,16 +1,16 @@
-Artist: "\u304B\u3081\u308A\u3042 Camellia / inteliser"
+Artist: "Camellia"
 AssetId: rbxassetid://10718860259
 CoverImageAssetId: rbxassetid://6647098208
-Description: "\u30C7\u30E9\u30C3\u30AF\u30B9 SUPER TORNADOOOOOOOOOO"
+Description: "SUPER TORNADOOOOOOOOOO"
 Filename: Tornado
 HitSFXGroup: 0
-Mapper: Yasi
+Mapper: 'inteliser'
 MD5Hash: b161e7502d72b92d29e9a50d4253537a
 NotePrebufferTime: 800
 TimeOffset: -110
 Volume: 0.5
 Difficulty:
-- Overall: 51.12881927490235
+- Overall: 51
   Chordjack: 39.04199409484863
   Handstream: 48.91769371032715
   Jack: 31.155300521850588
