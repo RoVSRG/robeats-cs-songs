@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Wh1teh
 MD5Hash: ce53c5c22124511476ecc1250b6a946f
 NotePrebufferTime: 1000
-TimeOffset: 2240
+TimeOffset: -100
 Volume: 0.5
 Difficulty:
 - Overall: 44

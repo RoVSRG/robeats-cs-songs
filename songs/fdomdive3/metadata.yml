@@ -1,13 +1,13 @@
-Artist: xi / razlteh
+Artist: xi
 AssetId: rbxassetid://10043823837
 CoverImageAssetId: rbxassetid://6673442077
 Description: ''
 Filename: FREEDOM DiVE
 HitSFXGroup: 0
-Mapper: Yasi
+Mapper: razlteh
 MD5Hash: d5499e1d97b8022a3f17a5e4d62e6f08
 NotePrebufferTime: 800
-TimeOffset: 0
+TimeOffset: -230
 Volume: 0.5
 Difficulty:
 - Overall: 35
