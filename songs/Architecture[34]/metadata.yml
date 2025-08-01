@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Yasi
 MD5Hash: ddf27cf5f596830277026bdd8cecaab3
 NotePrebufferTime: 800
-TimeOffset: -75
+TimeOffset: 350
 Volume: 0.5
 Difficulty:
 - Overall: 38

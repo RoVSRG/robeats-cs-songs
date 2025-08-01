@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: BaniiYanii
 MD5Hash: 131d79894f39bcc4cafbffb2c9cd8495
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -3100
 Volume: 0.5
 Difficulty:
 - Overall: 30
