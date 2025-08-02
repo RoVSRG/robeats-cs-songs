@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Lude
 MD5Hash: 9534d6929e6f450b202382a74ba47431
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -150
 Volume: 0.5
 Difficulty:
 - Overall: 37

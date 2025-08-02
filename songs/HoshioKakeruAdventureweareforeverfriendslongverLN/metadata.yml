@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: gemboyong
 MD5Hash: 42c97e74a486d8074e465b80947f0a0a
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -150
 Volume: 0.5
 Difficulty:
 - Overall: 0
