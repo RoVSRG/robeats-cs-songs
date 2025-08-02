@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: ArcadeSona
 MD5Hash: c101d81cc67b8dd7b4e28b16ec4d9659
 NotePrebufferTime: 1000
-TimeOffset: 422
+TimeOffset: -155
 Volume: 0.5
 Difficulty:
 - Overall: 38

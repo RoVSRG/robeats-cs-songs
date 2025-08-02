@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: "Skullbac"
 MD5Hash: e69822ea08108b120acddeefe4a72465
 NotePrebufferTime: 900
-TimeOffset: -50
+TimeOffset: -150
 Volume: 0.5
 Difficulty:
 - Overall: 28

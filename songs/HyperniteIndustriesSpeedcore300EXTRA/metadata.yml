@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: nowsmart
 MD5Hash: 3568fbbf9acec04343a4f24b93e29b90
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -165
 Volume: 0.5
 Difficulty:
 - Overall: 35
