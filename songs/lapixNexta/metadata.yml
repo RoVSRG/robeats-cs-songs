@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: '[ A v a l o n ]'
 MD5Hash: 77f6e24f2fa2e32a16c117659da06e4e
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -90
 Volume: 0.5
 Difficulty:
 - Overall: 30
