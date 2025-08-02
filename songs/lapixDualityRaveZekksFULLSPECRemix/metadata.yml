@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'A_scend'
 MD5Hash: c1b7c884f5a12d50398641d1389ea9a9
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: -130
 Volume: 0.5
 Difficulty:
 - Overall: 34
