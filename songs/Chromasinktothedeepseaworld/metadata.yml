@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: LeiN-
 MD5Hash: 627fbac205dddf6805061290442a6c05
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -40
 Volume: 0.5
 Difficulty:
 - Overall: 36

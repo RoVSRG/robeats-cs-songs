@@ -4,9 +4,10 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Freedom Dive (HEAVY)
 HitSFXGroup: 0
+Mapper: "ROBEATS"
 MD5Hash: c5f17f7fafe64ae40bbb15e9cee1f0da
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -350
 Volume: 0.5
 Difficulty:
 - Overall: 30

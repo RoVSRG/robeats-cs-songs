@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'xxbidiao'
 MD5Hash: 784f241b06310d89bc6a7f0608e276f8
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: -150
 Volume: 0.5
 Difficulty:
 - Overall: 40

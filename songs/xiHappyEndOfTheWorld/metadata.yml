@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'Fullerene'
 MD5Hash: 24b968320624851ef83b270eb1fdfcd8
 NotePrebufferTime: 1000
-TimeOffset: 530
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 32

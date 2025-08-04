@@ -4,9 +4,10 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Memoria (Original Mix)
 HitSFXGroup: 0
+Mapper: "Manwon"
 MD5Hash: 25591c50bf6c90f328e9f6a4fee9069f
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: -150
 Volume: 0.5
 Difficulty:
 - Overall: 23

@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Vortex-
 MD5Hash: e2f96ab032a509b346639ed3c5cb8930
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -1010
 Volume: 0.5
 Difficulty:
 - Overall: 44

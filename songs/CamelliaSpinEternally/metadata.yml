@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 11Bit
 MD5Hash: 11b633afd6c8a1c5569d5b3ec7dfb1f6
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -155
 Volume: 0.5
 Difficulty:
 - Overall: 49

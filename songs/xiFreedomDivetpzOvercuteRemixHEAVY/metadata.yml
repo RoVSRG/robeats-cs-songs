@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: BluElecS
 MD5Hash: 56946a1170b4cae80db71613c4766344
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 40

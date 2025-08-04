@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: CubeyThePenguin
 MD5Hash: 7b659c8e23e9ae44ac18071c8515412e
 NotePrebufferTime: 1000
-TimeOffset: 150
+TimeOffset: 0
 Volume: 0.5
 Difficulty:
 - Overall: 50

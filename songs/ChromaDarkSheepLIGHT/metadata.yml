@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Feylos
 MD5Hash: 2160c7195e5bee19d0844cd929d1a294
 NotePrebufferTime: 1000
-TimeOffset: 500
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 15

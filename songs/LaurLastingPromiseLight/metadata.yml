@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: SunsetKR
 MD5Hash: 717d97b25e0e9fd8868d740114b8b24c
 NotePrebufferTime: 1000
-TimeOffset: 275
+TimeOffset: -140
 Volume: 0.5
 Difficulty:
 - Overall: 28

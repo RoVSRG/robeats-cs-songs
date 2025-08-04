@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: IcyWorld
 MD5Hash: f91077c8cdffabd5648e4275d458fc1c
 NotePrebufferTime: 1000
-TimeOffset: 1700
+TimeOffset: -90
 Volume: 0.5
 Difficulty:
 - Overall: 48

@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Elementaires
 MD5Hash: 8bcfe96bf0c02e5e29f52b36c5c4606c
 NotePrebufferTime: 1000
-TimeOffset: 1220
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 41
