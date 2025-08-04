@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Caput Mortuum
 MD5Hash: 435b6a6d00b216e89518c8d2e1bb4d55
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: -365
 Volume: 0.8
 Difficulty:
 - Overall: 12

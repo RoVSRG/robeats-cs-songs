@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Shoegazer
 MD5Hash: a988de4aab87f85d996809f47c343b4a
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 54

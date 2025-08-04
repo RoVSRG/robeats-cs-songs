@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Dergo
 MD5Hash: b4362bd75b212e0a8d9ed0129b746f5e
 NotePrebufferTime: 1000
-TimeOffset: 250
+TimeOffset: -155
 Volume: 0.5
 Difficulty:
 - Overall: 33

@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'Chrubble'
 MD5Hash: c2e71a44836d965c36e852881f8d2c48
 NotePrebufferTime: 1000
-TimeOffset: 300
+TimeOffset: -130
 Volume: 0.5
 Difficulty:
 - Overall: 44

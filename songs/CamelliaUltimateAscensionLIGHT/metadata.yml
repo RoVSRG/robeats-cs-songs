@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'Fresh Chicken'
 MD5Hash: d23810a702e05a616fe66cfcbd003299
 NotePrebufferTime: 1000
-TimeOffset: 12
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 26

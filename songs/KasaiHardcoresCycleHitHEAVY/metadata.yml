@@ -4,9 +4,10 @@ CoverImageAssetId: ''
 Description: ''
 Filename: Cycle Hit (HEAVY)
 HitSFXGroup: 0
+Mapper: "Wadu"
 MD5Hash: a52d72cf9f44a19717abaf51945d0079
 NotePrebufferTime: 1000
-TimeOffset: -40
+TimeOffset: -180
 Volume: 0.5
 Difficulty:
 - Overall: 36

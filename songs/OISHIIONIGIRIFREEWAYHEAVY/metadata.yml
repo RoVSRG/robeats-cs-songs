@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Mentholzzz
 MD5Hash: f0414f49ab1d78d21b6130fdd9dde30e
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -75
 Volume: 0.5
 Difficulty:
 - Overall: 33

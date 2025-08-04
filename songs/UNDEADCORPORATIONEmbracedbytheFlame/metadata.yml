@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: '[Crz]Rachel'
 MD5Hash: 5f9707232d2c6440b8f780aa037d5369
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: -130
 Volume: 0.5
 Difficulty:
 - Overall: 40
