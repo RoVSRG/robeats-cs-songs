@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'Lifill'
 MD5Hash: 97c055c7e4aa979f31ba446524689a69
 NotePrebufferTime: 900
-TimeOffset: -75
+TimeOffset: -125
 Volume: 0.5
 Difficulty:
 - Overall: 24

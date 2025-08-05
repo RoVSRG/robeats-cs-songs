@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: fuzzy1033
 MD5Hash: 8a09800044884eb69955802a5282ecdb
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: 50
 Volume: 0.5
 Difficulty:
 - Overall: 44

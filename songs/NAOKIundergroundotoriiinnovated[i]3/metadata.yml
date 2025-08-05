@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: horrortic
 MD5Hash: 7d7cc72e6f055c5f885c7de91ac28b31
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: 375
 Volume: 0.8
 Difficulty:
 - Overall: 42

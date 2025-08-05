@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'tailsdk'
 MD5Hash: 54612f6986fe49951d695b5904ea1dcb
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: 1010
 Volume: 0.5
 Difficulty:
 - Overall: 35

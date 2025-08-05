@@ -7,8 +7,8 @@ HitSFXGroup: 0
 Mapper: ATTang
 MD5Hash: f873697ea6d3ea324491c0a89c120a21
 NotePrebufferTime: 1000
-TimeOffset: -70
-Volume: 0.5
+TimeOffset: -60
+Volume: 0.5w
 Difficulty:
 - Overall: 62
   Chordjack: 42.75450096130371
