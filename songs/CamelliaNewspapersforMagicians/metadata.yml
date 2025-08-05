@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Leniane
 MD5Hash: 917500fe48236638e325dcb6dca81005
 NotePrebufferTime: 1000
-TimeOffset: -75
+TimeOffset: 50
 Volume: 0.5
 Difficulty:
 - Overall: 29

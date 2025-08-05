@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Slick6969
 MD5Hash: 5f6aafbde791b2f166e8431e5fe56671
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: 250
 Volume: 0.5
 Difficulty:
 - Overall: 41

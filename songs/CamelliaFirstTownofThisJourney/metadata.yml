@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: 'Toylolliy'
 MD5Hash: 8c1e205157607074e66392ccb0379e89
 NotePrebufferTime: 1000
-TimeOffset: -70
+TimeOffset: 1025
 Volume: 0.5
 Difficulty:
 - Overall: 32

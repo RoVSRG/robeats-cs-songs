@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: Hydria
 MD5Hash: 6cbd193ced072c24a6cc1c2aa6c0ee41
 NotePrebufferTime: 1000
-TimeOffset: -75
+TimeOffset: 425
 Volume: 0.5
 Difficulty:
 - Overall: 68

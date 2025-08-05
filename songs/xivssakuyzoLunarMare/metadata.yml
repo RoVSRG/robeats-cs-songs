@@ -7,7 +7,7 @@ HitSFXGroup: 0
 Mapper: rinstea
 MD5Hash: 931bd16b4f9fa2154c31dcdd2ae17a87
 NotePrebufferTime: 1000
-TimeOffset: 0
+TimeOffset: 1400
 Volume: 0.5
 Difficulty:
 - Overall: 47
